@@ -38,7 +38,7 @@
         ],
         "allyBonusUniques": [
                             "[+15]% [Gold] [in all cities]",
-                            "[Gold] cost of purchasing units in cities [-10]%",
+                            "[Gold] cost of purchasing [All] units in cities [-10]%",
                             "Provides a unique luxury"
         ],
         "color": [255, 216, 0]
@@ -52,7 +52,7 @@
         "allyBonusUniques": [
                               "[+100]% Production when constructing [All] units [in this city]",
                               "Provides military units every ≈[6] turns",
-                              "[+1 Production] from [Strategic resources] tiles [in all cities]"
+                              "[+1 Production] from [Strategic resource] tiles [in all cities]"
         ],
         "color": [255, 0, 0]
     },
@@ -69,7 +69,7 @@
                               "[+12 Faith] <starting from the [Medieval era]> <before the [Industrial era]>",
                               "[+26 Faith] <starting from the [Industrial era]>",
                               "[+10]% [Faith] [in all cities]",
-                              "[Faith] cost of purchasing items in cities [-10%]"
+                              "[Faith] cost of purchasing items in cities [-10]%"
         ],
         "color": [255, 255, 255]
     }
