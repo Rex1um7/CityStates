@@ -38,8 +38,8 @@
         ],
         "allyBonusUniques": [
                             "[+15]% [Gold] [in all cities]",
-                            "[Gold] cost of purchasing [Land] units in cities [-10]%",
-                            "Provides a unique luxury"
+                            "Provides a unique luxury",
+                            "[Gold] cost of purchasing items in cities [-10]%"
         ],
         "color": [255, 216, 0]
     },
