@@ -6,8 +6,8 @@
 	  "startBias":["[Jungle]","[Hill]"]
     "uniques": [
               "[+2 Production] from [all] tiles [in all cities]",
-							"[+2] Sight <when at war>"
-              "[+20]% [Production] when constructing [Military] units [in all cities]",
+	      "[+2] Sight <when at war>",
+              "[+20]% [Production] when constructing [Military] units ",
               "[+40]% [Production]  [in all cities] <when at war>",
     ],
 	
