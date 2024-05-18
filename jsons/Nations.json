@@ -3,12 +3,16 @@
     "name": "Winds of Destruction",
     "adjectives": "Winds of Destruction",
     "cityStateType": "Militaristic",
-	  "startBias":["[Jungle]","[Hill]"]
+	  "startBias":["[Jungle]","[Hill]"],
     "uniques": [
-              "[+2 Production] from [all] tiles [in all cities]",
-	      "[+2] Sight <when at war>",
-              "[+20]% Production when constructing [Military] units [in all cities]",
-              "[+40]% [Production]  [in all cities] <when at war>",
+	    "[+2 Production] from [all] tiles [in all cities]",
+	    "[+2] Sight <when at war>", 
+	    "[+2] Movement <when at war>",
+	    "[+20]% Production when constructing [Military] units [in all cities]",
+	    "[+40]% [Production]  [in all cities] <when at war>",
+	    "Enemy units ending their turn [in all cities] take [15] damage",
+	    "Quantity of strategic resources produced by the empire +[200]%",
+	    "+[15] Supply"
     ],
 	
     
