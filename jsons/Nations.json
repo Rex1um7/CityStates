@@ -10,7 +10,7 @@
 	    "[+2] Movement <for [All] units> <when at war>",
 	    "[+20]% Production when constructing [Military] units [in all cities]",
 	    "[+40]% [Production]  [in all cities] <when at war>",
-	    "Enemy units ending their turn [in this city] take [15] damage",
+	    "Enemy units ending their turn [from all tiles] [in all cities] take [15] damage",
 	    "Quantity of strategic resources produced by the empire +[200]%",
 	    "[+15] Unit Supply",
 	    "[+25]% Strength <when at war>"
