@@ -10,7 +10,7 @@
         "allyBonusUniques": [
                             "[+6 Culture] <before the [Medieval era]>",
                             "[+12 Culture] <starting from the [Medieval era]> <before the [Industrial era]>",
-                            "[+26 Culture] <starting from the [Industrial era]>"
+                            "[+26 Culture] <starting from the [Industrial era]>",
                             "[+10]% [Culture] [in all cities]",
                             "[-10]% Culture cost of adopting new Policies"
         ],
@@ -39,7 +39,7 @@
         "allyBonusUniques": [
                             "[+15]% [Gold] [in all cities]",
                             "Provides a unique luxury",
-                            "[Gold] cost of purchasing items in cities [-10]%"
+                            "[Gold] cost of purchasing items in cities [-15]%"
         ],
         "color": [255, 216, 0]
     },
@@ -54,7 +54,7 @@
                               "[+4 Production] [in all [Puppeted] cities] ",
                               "[+20]% [Production] [in all cities] <when at war>",
                               "Provides military units every ≈[8] turns",
-                              "[+1 Production] from [Strategic resource] tiles [in all cities]"
+                              "[+2 Production] from [Strategic resource] tiles [in all cities]"
         ],
         "color": [255, 0, 0]
     },
@@ -70,8 +70,8 @@
                               "[+6 Faith] <before the [Medieval era]>",
                               "[+12 Faith] <starting from the [Medieval era]> <before the [Industrial era]>",
                               "[+26 Faith] <starting from the [Industrial era]>",
-                              "[+10]% [Faith] [in all cities]",
-                              "[Faith] cost of purchasing items in cities [-10]%"
+                              "[+15]% [Faith] [in all cities]",
+                              "[Faith] cost of purchasing items in cities [-15]%"
         ],
         "color": [255, 255, 255]
     }
