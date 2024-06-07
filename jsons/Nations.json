@@ -1,7 +1,6 @@
 [
 	{
     "name": "Winds of Destruction",
-    "leaderName": "Sundowner",
     "adjectives": "Winds of Destruction",
     "cityStateType": "Militaristic",
 	  "startBias":["[Jungle]","[Hill]"],
@@ -14,9 +13,8 @@
 	    "Quantity of strategic resources produced by the empire +[200]%",
 	    "[+2] Unit supply per [1] populations ",
 	    "[+25]% Strength <when at war>"
-    ],
-	
-    
+    ],	
+    "leaderName": "Sundowner",
     "declaringWar": "I'M FUCKIN' INVINCIBLE!!!",
     "attacked": "Like I said, kids are cruel, Jack. And I'm very in touch with my inner child.",
 		"defeated": "Son of a bitch...You...got me.",
