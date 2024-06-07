@@ -11,7 +11,7 @@
 	    "[+20]% Production when constructing [Military] units [in all cities]",
 	    "[+40]% [Production]  [in all cities] <when at war>",
 	    "Quantity of strategic resources produced by the empire +[200]%",
-	    "[+2] Unit supply per [1] populations ",
+	    "[+2] Unit Supply per [1] population [in all cities]",
 	    "[+25]% Strength <when at war>"
     ],	
     "leaderName": "Sundowner",
