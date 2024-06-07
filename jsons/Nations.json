@@ -2,6 +2,7 @@
 	{
     "name": "Winds of Destruction",
     "adjectives": "Winds of Destruction",
+    "leaderName": "Sundowner",
     "cityStateType": "Militaristic",
 	  "startBias":["[Jungle]","[Hill]"],
     "uniques": [
@@ -14,7 +15,6 @@
 	    "[+2] Unit Supply per [1] population [in all cities]",
 	    "[+25]% Strength <when at war>"
     ],	
-    "leaderName": "Sundowner",
     "declaringWar": "I'M FUCKIN' INVINCIBLE!!!",
     "attacked": "Like I said, kids are cruel, Jack. And I'm very in touch with my inner child.",
 		"defeated": "Son of a bitch...You...got me.",
