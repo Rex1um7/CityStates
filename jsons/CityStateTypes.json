@@ -46,14 +46,14 @@
     {
         "name": "Militaristic",
         "friendBonusUniques": [
-                              "[+2 Production] [in all non-occupied cities] ",
+                              "[+2 Production] [in all cities] ",
                               "[+10]% [Production] [in all cities] <when at war>",
                               "Provides military units every ≈[12] turns"
         ],
         "allyBonusUniques": [
-                              "[+4 Production] [in all non-occupied cities] ",
-                              "[+20]% [Production] [in all cities] <when at war>",
-                              "Provides military units every ≈[8] turns",
+                              "[+4 Production] [in all cities] ",
+                              "[+15]% [Production] [in all cities] <when at war>",
+                              "Provides military units every ≈[7] turns",
                               "[+2 Production] from [Strategic resource] tiles [in all cities]"
         ],
         "color": [255, 0, 0]
