@@ -1,11 +1,11 @@
 game.png
-size: 2048, 2048
+size: 144, 144
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 LeaderIcons/Sundowner
   rotate: false
-  xy: 4, 1476
+  xy: 72, 72
   size: 144, 144
   orig: 144, 144
   offset: 0, 0
