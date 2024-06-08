@@ -5,7 +5,7 @@ filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 LeaderIcons/Sundowner
   rotate: false
-  xy: 0, 0
+  xy: 144, 144
   size: 144, 144
   orig: 144, 144
   offset: 0, 0
