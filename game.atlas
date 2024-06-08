@@ -6,7 +6,7 @@ repeat: none
 LeaderIcons/Sundowner
   rotate: false
   xy: 4, 1476
-  size: 360, 360
-  orig: 360, 360
+  size: 144, 144
+  orig: 144, 144
   offset: 0, 0
   index: -1
