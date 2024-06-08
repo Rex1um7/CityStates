@@ -2,7 +2,7 @@
 	{
     "name": "Winds of Destruction",
     "adjectives": "Winds of Destruction",
-    "LeaderName": "Sundowner",
+    "leaderName": "Sundowner",
     "style":"North American",
     "cityStateType": "Militaristic",
 	  "startBias":["[Jungle]","[Hill]"],
