@@ -19,8 +19,7 @@
 	    "Free [Settler] appears <upon discovering [Optics]>",
 	    "Free [Swordsman] appears <upon discovering [Optics]>",
 	    "Free [Settler] appears <upon discovering [Sailing]>",
-	    "Free [Warrior] appears <upon discovering [Sailing]>",
-	    "Free [Warrior] appears <upon defeating [Barbarians]>"
+	    "[3] free [Warrior] appears <upon entering [Classical era]>",
     ],	
     "declaringWar": "I'M FUCKIN' INVINCIBLE!!!",
     "attacked": "Like I said, kids are cruel, Jack. And I'm very in touch with my inner child.",
