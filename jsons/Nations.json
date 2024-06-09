@@ -15,9 +15,8 @@
 	    "[+2] Unit Supply per [1] population [in all cities]",
 	    "[+15]% Strength <when at war>",
 	    "Cities are razed [3] times as fast",
-	    "[+10000]% [Science] [in all cities]",
-	    "Free [Warrior] appears <every [4] turns>",
-	    "Free [Settler] appears <upon discovering [Optics]>"
+	    "[+1000]% [Science] [in all cities]",
+	    "[2] free [Settler] appears <upon discovering [Optics]>"
     ],	
     "declaringWar": "I'M FUCKIN' INVINCIBLE!!!",
     "attacked": "Like I said, kids are cruel, Jack. And I'm very in touch with my inner child.",
