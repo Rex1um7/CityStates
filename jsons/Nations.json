@@ -17,12 +17,12 @@
 	    "Cities are razed [3] times as fast",
 	    "[+225]% [Science] [in all cities]",
             "City-State territory always counts as friendly territory",
-	    "Free [Settler] appears <upon discovering [Optics]>",
-	    "Free [Settler] appears <upon discovering [Sailing]>",
-	    "Free [Warrior] appears <upon discovering [Sailing]>",
-            "Free [Warrior] appears <upon discovering [Sailing]>",
-            "Free [Warrior] appears <upon discovering [Sailing]>",
-            "Free [Warrior] appears <upon discovering [Sailing]>"
+	    "Free [Settler] appears <upon discovering [Optics] technology>",
+	    "Free [Settler] appears <upon discovering [Sailing] technology>",
+	    "Free [Warrior] appears <upon discovering [Sailing] technology>",
+            "Free [Warrior] appears <upon discovering [Sailing] technology>",
+            "Free [Warrior] appears <upon discovering [Sailing] technology>",
+            "Free [Warrior] appears <upon discovering [Sailing] technology>"
     ],	
     "declaringWar": "I'M FUCKIN' INVINCIBLE!!!",
     "attacked": "Like I said, kids are cruel, Jack. And I'm very in touch with my inner child.",
