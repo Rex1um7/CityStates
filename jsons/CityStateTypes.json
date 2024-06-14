@@ -26,7 +26,7 @@
                             "[+2 Food] [in capital]", 
                             "[+1 Food] [in all cities]",
                             "[+10]% [Food] [in all cities]",
-                            "[50]% Food is carried over after population increases [in this city]"
+                            "[85]% Food is carried over after population increases [in this city]"
         ],
         "color": [56, 255, 112]
     },
