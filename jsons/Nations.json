@@ -14,7 +14,7 @@
 	    "Quantity of strategic resources produced by the empire +[200]%",
 	    "[+10] Unit Supply",
 	    "[+15]% Strength <when [Wounded]>",
-	    "[+15]% Strength for cities <when attacking> ",
+	    "[+15]% Strength for cities ",
 	    "Cities are razed [3] times as fast",
 	    "[+200]% [Science] [in all cities]",
             "City-State territory always counts as friendly territory",
