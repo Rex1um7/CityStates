@@ -1,3 +1,3 @@
-A mod that make the City states more useful and not so weak to conquer for both player and high-difficulty ai.
+A mod that make the City states more useful.
 
 Red Sun from : ZeeJiggle (Black Sun Mix) https://youtu.be/v5o5u2r6ljA?si=khMAjn85Kg_VEdAx
