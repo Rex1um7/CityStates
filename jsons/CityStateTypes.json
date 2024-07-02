@@ -24,9 +24,8 @@
         ],
         "allyBonusUniques": [
                             "[+2 Food] [in capital]", 
-                            "[+1 Food] [in all cities]",
-                            "[+10]% [Food] [in all cities]",
-                            "[85]% Food is carried over after population increases [in this city]"
+                            "[+2 Food] [in all cities]",
+                            "[+15]% [Food] [in all cities]",
         ],
         "color": [56, 255, 112]
     },
@@ -46,12 +45,12 @@
     {
         "name": "Militaristic",
         "friendBonusUniques": [
-                              "[+2 Production] [in all cities] ",
+                              "[+2 Production] [in all cities]",
                               "[+10]% [Production] [in all cities] <when at war>",
                               "Provides military units every ≈[12] turns"
         ],
         "allyBonusUniques": [
-                              "[+4 Production] [in all cities] ",
+                              "[+4 Production] [in all cities]",
                               "[+15]% [Production] [in all cities] <when at war>",
                               "Provides military units every ≈[7] turns",
                               "[+2 Production] from [Strategic resource] tiles [in all cities]"
@@ -70,8 +69,9 @@
                               "[+6 Faith] <before the [Medieval era]>",
                               "[+12 Faith] <starting from the [Medieval era]> <before the [Industrial era]>",
                               "[+26 Faith] <starting from the [Industrial era]>",
-                              "[+15]% [Faith] [in all cities]",
-                              "[Faith] cost of purchasing items in cities [-10]%"
+                              "[+10]% [Faith] [in all cities]",
+                              "[Faith] cost of purchasing items in cities [-10]%",
+                              "[+15]% Natural religion spread [in all cities]"
         ],
         "color": [255, 255, 255]
     }
