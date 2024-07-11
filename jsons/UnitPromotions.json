@@ -1,8 +1,6 @@
 [
-    /*{
+    {
         "name": "Camouflage",
-        "uniques": [
-                
-        ]
-    },*/
+        "uniques": ["Invisible to non-adjacent units" ]
+    }
 ]
