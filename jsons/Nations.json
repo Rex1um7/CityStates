@@ -207,7 +207,8 @@
 			"Cities are razed [3] times as fast",
 			"[+100]% Production when constructing [All] units [in all cities]",
 			"[-40]% Strength <for [All] units> <when fighting in [Enemy Land] tiles>",
-			"All newly-trained [Land, Water] units [in all cities] receive the [UcantSeeUs] promotion",
+			"All newly-trained [Land] units [in all cities] receive the [UcantSeeUs] promotion",
+			"All newly-trained [Water] units [in all cities] receive the [UcantSeeUs] promotion",
 			"Rebel units may spawn",
 			"Rebel units may spawn"
 			//"May enter foreign tiles without open borders <for [All] units>"
@@ -227,7 +228,7 @@
 		"uniques":[
 			"Cities are razed [3] times as fast",
 			"[+25]% Production when constructing [All] units [in all cities]",
-			"Free [Spearman] appears every [5] turns <after discovering [Civil Service]>",
+			"Free [Spearman] appears <every [5] turns> <after discovering [Civil Service]>",
 			"[+1] Movement <for [Land] units> <when at war>"
 		],
 		"declaringWar": "We don't like your face. To arms!",
