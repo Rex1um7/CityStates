@@ -5,12 +5,16 @@
                             "[+3 Culture] <before the [Medieval era]>",
                             "[+6 Culture] <starting from the [Medieval era]> <before the [Industrial era]>",
                             "[+13 Culture] <starting from the [Industrial era]>",
+                            "[+19 Culture] <starting from the [Modern era]>",
+                            "[+30 Culture] <starting from the [Atomic era]>",
                             "[+10]% [Culture] [in all cities]"
         ],
         "allyBonusUniques": [
                             "[+6 Culture] <before the [Medieval era]>",
                             "[+12 Culture] <starting from the [Medieval era]> <before the [Industrial era]>",
                             "[+26 Culture] <starting from the [Industrial era]>",
+                            "[+38 Culture] <starting from the [Modern era]>",
+                            "[+60 Culture] <starting from the [Atomic era]>",
                             "[+10]% [Culture] [in all cities]",
                             "[-10]% Culture cost of adopting new Policies"
         ],
@@ -24,20 +28,21 @@
         ],
         "allyBonusUniques": [
                             "[+2 Food] [in capital]", 
-                            "[+2 Food] [in all cities]",
-                            "[+15]% [Food] [in all cities]",
+                            "[+1 Food] from every [Farm]",
+                            "[+10]% [Food] [in all cities]",
         ],
         "color": [56, 255, 112]
     },
     {
         "name": "Mercantile",
         "friendBonusUniques": [
-                            "[+10]% [Gold] [in all cities]",
+                            "[+15]% [Gold] [in all cities]",
                             "Provides a unique luxury"
         ],
         "allyBonusUniques": [
-                            "[+15]% [Gold] [in all cities]",
+                            "[+20]% [Gold] [in all cities]",
                             "Provides a unique luxury",
+                            "[+10]% Happiness from luxury resources gifted by City-States"
                             "[Gold] cost of purchasing items in cities [-10]%"
         ],
         "color": [255, 216, 0]
@@ -51,7 +56,7 @@
         ],
         "allyBonusUniques": [
                               "[+4 Production] [in all cities]",
-                              "[+15]% [Production] [in all cities] <when at war>",
+                              "[+1 Production] from every [Mine]",
                               "[+10]% [Production] [in all cities]"
                               "Provides military units every ≈[6] turns",
                               "[+2 Production] from [Strategic resource] tiles [in all cities]"
@@ -61,18 +66,20 @@
     {
         "name": "Religious",
         "friendBonusUniques": [
-                              "[+4 Faith] <before the [Medieval era]>",
-                              "[+8 Faith] <starting from the [Medieval era]> <before the [Industrial era]>",
-                              "[+16 Faith] <starting from the [Industrial era]>",
-                              "[+10]% [Faith] [in all cities]"
+                            "[+4 Faith] <before the [Medieval era]>",
+                            "[+8 Faith] <starting from the [Medieval era]> <before the [Industrial era]>",
+                            "[+16 Faith] <starting from the [Industrial era]>",
+                            "[+30 Faith] <starting from the [Modern era]>",
+                            "[+10]% [Faith] [in all cities]"
         ],
         "allyBonusUniques":  [
-                              "[+6 Faith] <before the [Medieval era]>",
-                              "[+12 Faith] <starting from the [Medieval era]> <before the [Industrial era]>",
-                              "[+26 Faith] <starting from the [Industrial era]>",
-                              "[+10]% [Faith] [in all cities]",
-                              "[Faith] cost of purchasing items in cities [-10]%",
-                              "[+15]% Natural religion spread [in all cities]"
+                            "[+6 Faith] <before the [Medieval era]>",
+                            "[+12 Faith] <starting from the [Medieval era]> <before the [Industrial era]>",
+                            "[+26 Faith] <starting from the [Industrial era]>",
+                            "[+45 Faith] <starting from the [Modern era]>",
+                            "[+10]% [Faith] [in all cities]",
+                            "[Faith] cost of purchasing items in cities [-10]%",
+                            "[+15]% Natural religion spread [in all cities]"
         ],
         "color": [255, 255, 255]
     }
