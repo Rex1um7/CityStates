@@ -9,7 +9,7 @@
     "uniques": [
 	    "[+1 Gold, +1 Production, +1 Food, +1 Science, +1 Culture] from [all] tiles [in all cities]",
 	    "[+200]% unhappiness from the number of cities",
-	    "[+100]% Unhappiness from [Populations] [in all cities]",
+	    "[+100]% Unhappiness from [Population] [in all cities]",
 	    "Rebel units may spawn",
 	    "[+2] Movement <for [All] units> <when at war>",
             "May enter foreign tiles without open borders <for [All] units>",
