@@ -49,7 +49,7 @@
 		"startBias": ["Coast"],
 		"uniques":[
 			"Cities are razed [3] times as fast",
-			"May enter foreign tiles without open boarders <for [All] units>"
+			"May enter foreign tiles without open borders <for [All] units>"
 		],
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
