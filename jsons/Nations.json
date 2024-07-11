@@ -221,8 +221,8 @@
 
 		"uniques":[
 			"Cities are razed [3] times as fast",
-			"May enter foreign tiles without open borders <for [All] units>",
-			"Free [Spearman] appears <upon gaining a [Melee] unit>",
+			"[+25]% Production when constructing [Melee] units [in all cities]",
+			"Free [Spearman] appears every [4] turns <when at war>",
 			"[+1] Movement <for [Land] units> <when at war>"
 		],
 		"declaringWar": "We don't like your face. To arms!",
