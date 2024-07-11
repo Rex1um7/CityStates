@@ -48,7 +48,7 @@
 		"cityStateType": "Mercantile",
 		"startBias": ["Coast"],
 		"uniques":[
-			"Cities are razed [3] times as fast",
+			"Cities are razed [3] times as fast"
 			//"May enter foreign tiles without open borders <for [All] units>"
 		],
 		"declaringWar": "You leave us no choice. War it must be.",
@@ -63,7 +63,7 @@
 		"adjective": ["Kathmandu"],
 		"cityStateType": "Mercantile",
                 "uniques":[
-			"Cities are razed [3] times as fast",
+			"Cities are razed [3] times as fast"
 			//"May enter foreign tiles without open borders <for [All] units>"
 		],
 		"declaringWar": "You leave us no choice. War it must be.",
@@ -78,7 +78,7 @@
 		"adjective": ["Singaporean"],
 		"cityStateType": "Mercantile",
 		"uniques":[
-			"Cities are razed [3] times as fast",
+			"Cities are razed [3] times as fast"
 			//"May enter foreign tiles without open borders <for [All] units>"
 		],
 		"declaringWar": "You leave us no choice. War it must be.",
@@ -94,7 +94,7 @@
 		"cityStateType": "Mercantile",
 		"startBias": ["Coast"],
 		"uniques":[
-			"Cities are razed [3] times as fast",
+			"Cities are razed [3] times as fast"
 			//"May enter foreign tiles without open borders <for [All] units>"
 		],
 		"declaringWar": "You leave us no choice. War it must be.",
@@ -109,7 +109,7 @@
 		"adjective": ["Zanzibar"],
 		"cityStateType": "Mercantile",
 		"uniques":[
-			"Cities are razed [3] times as fast",
+			"Cities are razed [3] times as fast"
 			//"May enter foreign tiles without open borders <for [All] units>"
 		],
 		"declaringWar": "You leave us no choice. War it must be.",
@@ -125,7 +125,7 @@
 		"adjective": ["Almaty"],
 		"cityStateType": "Militaristic",
 		"uniques":[
-			"Cities are razed [3] times as fast",
+			"Cities are razed [3] times as fast"
 			//"May enter foreign tiles without open borders <for [All] units>"
 		],
 		"declaringWar": "You leave us no choice. War it must be.",
@@ -140,7 +140,7 @@
 		"adjective": ["Belgrade"],
 		"cityStateType": "Militaristic",
 		"uniques":[
-			"Cities are razed [3] times as fast",
+			"Cities are razed [3] times as fast"
 			//"May enter foreign tiles without open borders <for [All] units>"
 		],
 		"declaringWar": "Let's have a nice little War, shall we?",
@@ -155,7 +155,7 @@
 		"adjective": ["Dubliner"],
 		"cityStateType": "Militaristic",
                 "uniques":[
-			"Cities are razed [3] times as fast",
+			"Cities are razed [3] times as fast"
 			//"May enter foreign tiles without open borders <for [All] units>"
 		],
 		"declaringWar": "War lingers in our hearts. Why carry on with a false peace?",
@@ -171,7 +171,7 @@
 		"adjective": ["Edinburghensian"],
 		"cityStateType": "Militaristic",
 		"uniques":[
-			"Cities are razed [3] times as fast",
+			"Cities are razed [3] times as fast"
 			//"May enter foreign tiles without open borders <for [All] units>"
 		],
 		"declaringWar": "You shall stain this land no longer with your vileness! To arms, my countrymen - we ride to war!",
@@ -188,7 +188,7 @@
 		"cityStateType": "Militaristic",
 
 		"uniques":[
-			"Cities are razed [3] times as fast",
+			"Cities are razed [3] times as fast"
 			//"May enter foreign tiles without open borders <for [All] units>"
 		],
 		"declaringWar": "Do you really think you can walk over us so easily? I will not let it happen. Not to Kongo - not to my people!",
@@ -205,6 +205,11 @@
 
 		"uniques":[
 			"Cities are razed [3] times as fast",
+			"[+100]% Production when constructing [All] units [in all cities]",
+			"[-40]% Strength <for [All] units> <when fighting in [Enemy Land] tiles>",
+			"All newly-trained [Land, Water] units [in all cities] receive the [Camouflage] promotion",
+			"Rebel units may spawn",
+			"Rebel units may spawn"
 			//"May enter foreign tiles without open borders <for [All] units>"
 		],
 		"declaringWar": "You leave us no choice. War it must be.",
@@ -239,7 +244,7 @@
 		"cityStateType": "Religious",
 
 		"uniques":[
-			"Cities are razed [3] times as fast",
+			"Cities are razed [3] times as fast"
 			//"May enter foreign tiles without open borders <for [All] units>"
 		],
 		"declaringWar": "I didn't want to do this. We declare war.",
@@ -255,7 +260,7 @@
 		"cityStateType": "Religious",
 
 		"uniques":[
-			"Cities are razed [3] times as fast",
+			"Cities are razed [3] times as fast"
 			//"May enter foreign tiles without open borders <for [All] units>"
 		],
 		"declaringWar": "We have wanted this for a LONG time. War it shall be.",
@@ -271,7 +276,7 @@
 		"cityStateType": "Religious",
 
 		"uniques":[
-			"Cities are razed [3] times as fast",
+			"Cities are razed [3] times as fast"
 			//"May enter foreign tiles without open borders <for [All] units>"
 		],
 		"declaringWar": "By god's grace we will not allow these atrocities to occur any longer. We declare war!",
