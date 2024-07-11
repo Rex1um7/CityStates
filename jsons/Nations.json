@@ -221,7 +221,9 @@
 
 		"uniques":[
 			"Cities are razed [3] times as fast",
-			"May enter foreign tiles without open borders <for [All] units>"
+			"May enter foreign tiles without open borders <for [All] units>",
+			"Free [Spearman] appears <upon gaining a [Melee] unit>",
+			"[+1] Movement <for [Land] units> <when at war>"
 		],
 		"declaringWar": "We don't like your face. To arms!",
 		"attacked": "You will see you have just bitten off more than you can chew.",
