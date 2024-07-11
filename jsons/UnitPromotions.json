@@ -1,6 +1,9 @@
 [
     {
-        "name": "Camouflage",
-        "uniques": ["Invisible to non-adjacent units" ]
+        "name": "Stealth",
+        "uniques": [
+            "Invisible to non-adjacent units", 
+            "[+75]% Strength <when attacking> <if it hasn't used other actions yet>"
+        ]
     }
 ]
