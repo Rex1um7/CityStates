@@ -37,8 +37,8 @@
 		]
 	},
 
-	//each City states razed faster and their units can enter foreign tiles
-	//city states should have their own cityStateType 
+	//each City states razed faster and their units can enter foreign tiles (wip)
+	//city states should have their own cityStateType (wip)
 	{
 		"name": "Genoa",
 		"adjective": ["Genoese"],
