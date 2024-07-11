@@ -23,9 +23,9 @@
 	    "[+75]% [Science] [in all cities]",
 	    "Free [Settler] appears",
 	    "Free [Settler] appears <upon discovering [Sailing] technology>",
-	    "[2] free [Scout] appears <upon discovering [Sailing] technology>",
+	    "[2] free [Scout] appear <upon discovering [Sailing] technology>",
             //"Free [Scout] appears <upon discovering [Sailing] technology>",
-            "[2] free [Horse Archer] appears <upon discovering [Sailing] technology>"
+            "[2] free [Horse Archer] appear <upon discovering [Sailing] technology>"
     ],	
     "declaringWar": "I'M FUCKIN' INVINCIBLE!!!",
     "attacked": "Like I said, kids are cruel, Jack. And I'm very in touch with my inner child.",
