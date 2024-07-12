@@ -15,6 +15,7 @@
             //"May enter foreign tiles without open borders <for [All] units>",
 	    "[+15]% Production when constructing [All] units [in all cities]",
 	    "[+20]% [Production] [in all cities] <when at war>",
+	    "[+200]% [Production] [in all cities] when consturcting [Helicopter] units [in all cities]",
 	    "Quantity of strategic resources produced by the empire +[200]%",
 	    "[+7] Unit Supply",
 	    "[+12]% Strength <when [Wounded]>",
@@ -24,7 +25,8 @@
 	    "Free [Settler] appears",
 	    "Free [Settler] appears <upon discovering [Sailing] technology>",
 	    "[2] free [Scout] units appear <upon discovering [Sailing] technology>",
-            "[2] free [Horse Archer] units appear <upon discovering [Sailing] technology>"
+            "[2] free [Horse Archer] units appear <upon discovering [Sailing] technology>",
+	    "Starts with [Computers]"
     ],	
     "declaringWar": "I'M FUCKIN' INVINCIBLE!!!",
     "attacked": "Like I said, kids are cruel, Jack. And I'm very in touch with my inner child.",
