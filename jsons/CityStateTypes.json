@@ -1,6 +1,9 @@
 [
     {
         "name": "Cultured",
+        "uniques":[
+            "Cities are razed [3] times as fast"
+        ],
         "friendBonusUniques": [
                         "[+3 Culture] <before the [Medieval era]>",
                         "[+6 Culture] <starting from the [Medieval era]> <before the [Industrial era]>",
@@ -22,6 +25,9 @@
     },
     {
         "name": "Maritime",
+        "uniques":[
+            "Cities are razed [3] times as fast"
+        ],
         "friendBonusUniques": [
                         "[+2 Food] [in capital]",
                         "[+10]% [Food] [in all cities]"
@@ -35,6 +41,9 @@
     },
     {
         "name": "Mercantile",
+        "uniques":[
+            "Cities are razed [3] times as fast"
+        ],
         "friendBonusUniques": [
                         "[+15]% [Gold] [in all cities]",
                         "Provides a unique luxury"
@@ -67,6 +76,10 @@
     },
     {
         "name": "Religious",
+        "uniques":[
+            "Cities are razed [3] times as fast"
+        ],
+        
         "friendBonusUniques": [
                         "[+4 Faith] <before the [Medieval era]>",
                         "[+8 Faith] <starting from the [Medieval era]> <before the [Industrial era]>",
