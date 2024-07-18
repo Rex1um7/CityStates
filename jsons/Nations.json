@@ -233,7 +233,6 @@
 		"innerColor": [0,102,102],
 		"cities": ["Valletta"]
 	},
-
 	{
 		"name": "Bratislava",
 		"adjective": ["Bratislava"],
@@ -281,5 +280,105 @@
 		"outerColor": [0, 0, 0],
 		"innerColor": [198,255,192],
 		"cities": ["Jerusalem"]
+	},
+	{
+		"name": "Brussels",
+		"adjective": ["Bruxellois"],
+		"cityStateType": "Cultured",
+		""
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "I guess you weren't here for the sprouts after all...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [153,255,51],
+		"cities": ["Brussels"]
+	},
+	{
+		"name": "Florence",
+		"adjective": ["Florentine"],
+		"cityStateType": "Cultured",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "And so the flower of Florence falls to barbaric hands...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [62,197,252],
+		"cities": ["Florence"]
+	},
+	{
+		"name": "Hanoi",
+		"adjective": ["Hanoi"],
+		"cityStateType": "Cultured",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "So this is how it feels to die...",
+		"outerColor": [0, 0, 0],
+        "innerColor": [51,51,255],
+		"cities": ["Hanoi"]
+	},
+	{
+		"name": "Kabul",
+		"adjective": ["Kabul"],
+		"cityStateType": "Cultured",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "Unacceptable!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [168,38,102],
+		"cities": ["Kabul"]
+	},
+	{
+		"name": "Kuala Lumpur",
+		"adjective": ["KLite"],
+		"cityStateType": "Cultured",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "Today, the Malay people obey you, but do not think this is over...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [0,102,102],
+		"cities": ["Kuala Lumpur"]
+	},
+	{
+		"name": "Lhasa",
+		"adjective": ["tibetano"],
+		"cityStateType": "Cultured",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "Perhaps now we will find peace in death...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [204,102,0],
+		"cities": ["Lhasa"]
+	},
+	{
+		"name": "Milan",
+		"adjective": ["Milanese"],
+		"cityStateType": "Cultured",
+		"uniques":[
+			"Cities are razed [3] times as fast", 
+			"[+1]% Production from every [Culture]", 
+			"[+1 Culture] from every [buildingFilter]" 
+		]
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "You fiend! History shall remember this!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [185,132,66],
+		"cities": ["Milan"]
+	},
+	{
+		"name": "Quebec City",
+		"adjective": ["Québécois"],
+		"cityStateType": "Cultured",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "We were too weak to protect ourselves...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [51,102,0],
+		"cities": ["Quebec City"]
 	}
 	]
