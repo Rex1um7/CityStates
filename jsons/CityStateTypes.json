@@ -51,7 +51,7 @@
         "allyBonusUniques": [
                         "[+20]% [Gold] [in all cities]",
                         "Provides a unique luxury",
-                        "[+10]% Happiness from luxury resources gifted by City-States",
+                        "[+25]% Happiness from luxury resources gifted by City-States",
                         "[Gold] cost of purchasing items in cities [-10]%"
         ],
         "color": [255, 216, 0]
