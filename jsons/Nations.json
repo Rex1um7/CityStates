@@ -207,9 +207,7 @@
 			"[-40]% Strength <for [All] units> <when fighting in [Enemy Land] tiles>",
 			"All newly-trained [Land] units [in all cities] receive the [UcantSeeUs] promotion",
 			"All newly-trained [Water] units [in all cities] receive the [UcantSeeUs] promotion",
-			"Rebel units may spawn",
 			"Rebel units may spawn"
-			//"May enter foreign tiles without open borders <for [All] units>"
 		],
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
