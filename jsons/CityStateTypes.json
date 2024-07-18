@@ -2,7 +2,9 @@
     {
         "name": "Cultured",
         "uniques":[
-            "Cities are razed [3] times as fast"
+            "Cities are razed [3] times as fast",
+            "[+1]% Production from every [Culture]",
+            "[+1 Culture] from every [buildingFilter]"
         ],
         "friendBonusUniques": [
                         "[+3 Culture] <before the [Medieval era]>",
@@ -25,8 +27,13 @@
     },
     {
         "name": "Maritime",
+        "startBias": ["Coast"],
         "uniques":[
-            "Cities are razed [3] times as fast"
+            "Cities are razed [3] times as fast",
+            "[+50]% yield from every [Farm]",
+            "[+50]% yield from every [Coast]",
+            "[+50]% yield from every [Ocean]",
+            "[+1 Food, +1 Production] from all [Food] buildings"
         ],
         "friendBonusUniques": [
                         "[+2 Food] [in capital]",
@@ -42,7 +49,9 @@
     {
         "name": "Mercantile",
         "uniques":[
-            "Cities are razed [3] times as fast"
+            "Cities are razed [3] times as fast",
+            "[+5]% Strength <for [All] units> <in cities with a [Gold]>",
+            "[+50]% Yield from every [Luxury resouce]"
         ],
         "friendBonusUniques": [
                         "[+15]% [Gold] [in all cities]",
@@ -60,7 +69,9 @@
         "name": "Militaristic",
         "uniques":[
             "Cities are razed [3] times as fast",
-            "Militaristic City-States grant units [3] times as fast when you are at war with a common nation"
+            "Militaristic City-States grant units [2] times as fast when you are at war with a common nation",
+            "[All] units gain the [CS ability] promotion",
+            "[+50]% Production when constructing [Military] units [in all cities]"
         ],
         "friendBonusUniques": [
                         "[+4 Production] [in all cities]",
@@ -78,7 +89,10 @@
     {
         "name": "Religious",
         "uniques":[
-            "Cities are razed [3] times as fast"
+            "Cities are razed [3] times as fast",
+            "[+2 Faith, +2 Production] from all [Faith] buildings",
+            "[+100]% Production when constructing [Faith] buildings [in all cities]",
+            "May buy [Military] units with [Faith] for [3] times their normal Production cost"
         ],
         
         "friendBonusUniques": [
