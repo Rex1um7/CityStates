@@ -1,11 +1,6 @@
 [
     {
         "name": "Cultured",
-        "uniques":[
-            "Cities are razed [3] times as fast",
-            "[+1]% Production from every [Culture]",
-            "[+1 Culture] from every [buildingFilter]"
-        ],
         "friendBonusUniques": [
                         "[+3 Culture] <before the [Medieval era]>",
                         "[+6 Culture] <starting from the [Medieval era]> <before the [Industrial era]>",
