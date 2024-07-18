@@ -8,5 +8,8 @@
     },
     {
         "name": "CS ability",
+        "uniques":[
+            "May enter foreign tiles without open borders"
+        ]
     }
 ]
