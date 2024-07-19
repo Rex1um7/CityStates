@@ -28,7 +28,7 @@
 	    "Free [Settler] appears <upon discovering [Sailing] technology>",
 	    "[2] free [Scout] units appear <upon discovering [Sailing] technology>",
             "[2] free [Landship] units appear <upon discovering [Sailing] technology>",
-	    "Starts with [Railroad]"
+	    "Starts with [Industrialization]"
     ],	
     "declaringWar": "I'M FUCKIN' INVINCIBLE!!!",
     "attacked": "Like I said, kids are cruel, Jack. And I'm very in touch with my inner child.",
@@ -378,9 +378,9 @@
 		"cityStateType": "Cultured",
 		"uniques":[
 			"Cities are razed [3] times as fast <hidden from users>",
-	    	"All newly-trained [Military] units [in all cities] receive the [CS ability] promotion <hidden from users>",
-			"[+1]% Production from every [Culture]", 
-			"[+1 Culture] from every [buildingFilter]" 
+	    		"All newly-trained [Military] units [in all cities] receive the [CS ability] promotion <hidden from users>",
+			"[+1 Gold, +1 Production] from all [Culture] buildings",
+			"[+1 Food, +1 Production] from every specialist [in all cities]", 
 		]
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
