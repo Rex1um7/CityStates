@@ -16,7 +16,7 @@ filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 NationIcons/Winds of Destruction
   rotate: false
-  xy: 4, 4
+  xy: 104, 76
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -29,3 +29,9 @@ LeaderIcons/Sundowner
   offset: 0, 0
   index: -1
 UnitPromotionIcons/CS ability
+rotate: false
+  xy: 328, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
