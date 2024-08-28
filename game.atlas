@@ -1,10 +1,31 @@
-game.png
-size:1089,615
+/*game.png
+size:
 filter:MipMapLinearLinear,MipMapLinearLinear
 repeat:none
-CS ability
+
 bounds:0,158,546,457
-Sundowner
+
 bounds:554,80,535,535
-Winds of Destruction
-bounds:0,0,180,150
+
+bounds:0,0,180,150*/
+
+game.png
+size: 1089, 615
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+NationIcons/Winds of Destruction
+  rotate: false
+  xy: 4, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+LeaderIcons/Sundowner
+  rotate: false
+  xy: 328, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/CS ability
