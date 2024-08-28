@@ -1,26 +1,10 @@
 game.png
-size: 1089, 615
-format: RGBA8888
-filter: MipMapLinearLinear, MipMapLinearLinear
-repeat: none
-LeaderIcons/Sundowner
-  rotate: false
-  xy: 554, 80
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-UnitPromotionIcons/CS ability
-  rotate: false
-  xy: 0, 158
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-NationIcons/Winds of Destruction
-  rotate: false
-  xy: 1089, 615
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
+size:1089,615
+filter:MipMapLinearLinear,MipMapLinearLinear
+repeat:none
+CS ability
+bounds:0,158,546,457
+Sundowner
+bounds:554,80,535,535
+Winds of Destruction
+bounds:0,0,180,150
