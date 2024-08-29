@@ -129,6 +129,7 @@
 		"name": "Zanzibar",
 		"adjective": ["Zanzibar"],
 		"cityStateType": "Mercantile",
+		"startBias": ["Coast"],
 		"uniques":[
 			"Cities are razed [3] times as fast <hidden from users>",
 	    	"All newly-trained [Military] units [in all cities] receive the [CS ability] promotion <hidden from users>",
