@@ -1,27 +1,27 @@
 
 game.png
-size: 1089, 615
+size: 1376, 535
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 NationIcons/Winds of Destruction
   rotate: false
-  xy: 0, 0
+  xy: 1196, 385
   size: 180, 150
   orig: 180, 150
   offset: 0, 0
   index: -1
 LeaderIcons/Sundowner
   rotate: false
-  xy: 546, 80
+  xy: 653, 0
   size: 535, 535
   orig: 535, 535
   offset: 0, 0
   index: -1
 UnitPromotionIcons/CS ability
 rotate: false
-  xy: 0, 150
-  size: 546, 457
-  orig: 546, 457
+  xy: 0, 19
+  size: 645, 516
+  orig: 645, 516
   offset: 0, 0
   index: -1
