@@ -1,13 +1,3 @@
-/*game.png
-size:
-filter:MipMapLinearLinear,MipMapLinearLinear
-repeat:none
-
-bounds:0,158,546,457
-
-bounds:554,80,535,535
-
-bounds:0,0,180,150*/
 
 game.png
 size: 1089, 615
@@ -17,21 +7,21 @@ repeat: none
 NationIcons/Winds of Destruction
   rotate: false
   xy: 104, 76
-  size: 100, 100
+  size: 180, 150
   orig: 100, 100
   offset: 0, 0
   index: -1
 LeaderIcons/Sundowner
   rotate: false
   xy: 328, 4
-  size: 100, 100
+  size: 535, 535
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitPromotionIcons/CS ability
 rotate: false
   xy: 328, 4
-  size: 100, 100
+  size: 546, 457
   orig: 100, 100
   offset: 0, 0
   index: -1
