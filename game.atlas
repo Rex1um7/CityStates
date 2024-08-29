@@ -8,20 +8,20 @@ NationIcons/Winds of Destruction
   rotate: false
   xy: 0, 4
   size: 180, 150
-  orig: 100, 100
+  orig: 180, 150
   offset: 0, 0
   index: -1
 LeaderIcons/Sundowner
   rotate: false
   xy: 328, 4
   size: 535, 535
-  orig: 100, 100
+  orig: 535, 535
   offset: 0, 0
   index: -1
 UnitPromotionIcons/CS ability
 rotate: false
   xy: 328, 4
   size: 546, 457
-  orig: 100, 100
+  orig: 546, 457
   offset: 0, 0
   index: -1
