@@ -6,7 +6,7 @@ filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 NationIcons/Winds of Destruction
   rotate: false
-  xy: 104, 76
+  xy: 0, 4
   size: 180, 150
   orig: 100, 100
   offset: 0, 0
