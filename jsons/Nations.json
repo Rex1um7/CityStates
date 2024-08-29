@@ -58,7 +58,9 @@
 		"startBias": ["Coast"],
 		"uniques":[
 			"Cities are razed [3] times as fast <hidden from users>",
-	    	"All newly-trained [Military] units [in all cities] receive the [CS ability] promotion <hidden from users>"
+	    	"All newly-trained [Military] units [in all cities] receive the [CS ability] promotion <hidden from users>",
+			"[+15]% Yield from every [Coast]",
+			"[+15]% Yield from every [Ocean]"
 		],
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
@@ -71,9 +73,13 @@
 		"name": "Kathmandu",
 		"adjective": ["Kathmandu"],
 		"cityStateType": "Mercantile",
-                "uniques":[
+		"startBias": ["Mountain"],
+        "uniques":[
 			"Cities are razed [3] times as fast <hidden from users>",
-	    	"All newly-trained [Military] units [in all cities] receive the [CS ability] promotion <hidden from users>"
+	    	"All newly-trained [Military] units [in all cities] receive the [CS ability] promotion <hidden from users>",
+			"[-50]% maintenance cost for buildings [in all cities]",
+			"[+20]% maintenance costs <for [Military] units>",
+			"[+2 Production, +2 Food, +2 Gold, +2 Culture, +2 Science] from every [Mountain]" 
 		],
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
@@ -86,9 +92,13 @@
 		"name": "Singapore",
 		"adjective": ["Singaporean"],
 		"cityStateType": "Mercantile",
+		"startBias": ["Coast"],
 		"uniques":[
 			"Cities are razed [3] times as fast <hidden from users>",
-	    	"All newly-trained [Military] units [in all cities] receive the [CS ability] promotion <hidden from users>"
+	    	"All newly-trained [Military] units [in all cities] receive the [CS ability] promotion <hidden from users>",
+			"[+2 Gold, +2 Production] from each Trade Route",
+			"Earn [10]% of the damage done to [All] units as [Gold]",
+			"Earn [10]% of the damage done to [All] units as [Culture]",
 		],
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
@@ -104,7 +114,9 @@
 		"startBias": ["Coast"],
 		"uniques":[
 			"Cities are razed [3] times as fast <hidden from users>",
-	    	"All newly-trained [Military] units [in all cities] receive the [CS ability] promotion <hidden from users>"
+	    	"All newly-trained [Military] units [in all cities] receive the [CS ability] promotion <hidden from users>",
+			"[3] free [Great Artist] units appear",
+			"Adopt [Tradition] <upon discovering [Agriculture] technology>"
 		],
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
@@ -119,7 +131,11 @@
 		"cityStateType": "Mercantile",
 		"uniques":[
 			"Cities are razed [3] times as fast <hidden from users>",
-	    	"All newly-trained [Military] units [in all cities] receive the [CS ability] promotion <hidden from users>"
+	    	"All newly-trained [Military] units [in all cities] receive the [CS ability] promotion <hidden from users>",
+			"Provides [1] [Spices]",
+			"Provides [1] [Spices] <if [Gold] is constructed>",
+			"[+2 Production] from every [Stone]",
+			"[+2 Gold, +1 Food] from [Desert] tiles without [Flood plains] [in this city] <when above [2] [Spices]>"
 		],
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
