@@ -1,7 +1,8 @@
 {
      "uniques":[
         "[+25]% [Science] [in all cities] <for [City-States]>",
-        "[+25]% Production when constructing [Military] units [in all cities] <for [City-States]>",
+        "[+50]% Production when constructing [Military] units [in all cities] <for [City-States]>",
+        "[+50]% [Production] [in all cities] <for [City-States]>",
         "[+50]% [Gold] [in all cities] <for [City-States]>",
         "[+25]% [Food] [in all cities] <for [City-States]>",
         "All newly-trained [Military] units [in all cities] receive the [CS ability] promotion <for [City-States]>",
