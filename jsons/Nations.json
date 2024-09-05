@@ -4,7 +4,7 @@
     "adjectives": "Winds of Destruction",
     "leaderName": "Sundowner",
     "style":"North American",
-    "cityStateType": "Militaristic",
+    "cityStateType": "WOD",
 	"startBias":["[Coast]","[Hill]"],
 	"uniqueName": "Kids are cruel",
     "uniques": [
