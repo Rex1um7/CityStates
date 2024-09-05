@@ -22,14 +22,6 @@
     },
     {
         "name": "Maritime",
-        "startBias": ["Coast"],
-        "uniques":[
-            "Cities are razed [3] times as fast",
-            "[+50]% yield from every [Farm]",
-            "[+50]% yield from every [Coast]",
-            "[+50]% yield from every [Ocean]",
-            "[+1 Food, +1 Production] from all [Food] buildings"
-        ],
         "friendBonusUniques": [
                         "[+2 Food] [in capital]",
                         "[+10]% [Food] [in all cities]"
@@ -43,11 +35,6 @@
     },
     {
         "name": "Mercantile",
-        "uniques":[
-            "Cities are razed [3] times as fast",
-            "[+5]% Strength <for [All] units> <in cities with a [Gold]>",
-            "[+50]% Yield from every [Luxury resouce]"
-        ],
         "friendBonusUniques": [
                         "[+15]% [Gold] [in all cities]",
                         "Provides a unique luxury"
@@ -62,19 +49,13 @@
     },
     {
         "name": "Militaristic",
-        "uniques":[
-            "Cities are razed [3] times as fast",
-            "Militaristic City-States grant units [2] times as fast when you are at war with a common nation",
-            "[All] units gain the [CS ability] promotion",
-            "[+50]% Production when constructing [Military] units [in all cities]"
-        ],
         "friendBonusUniques": [
-                        "[+4 Production] [in all cities]",
+                        "[+3 Production] [in all cities]",
                         "[+10]% [Production] [in all cities]",
                         "Provides military units every ≈[12] turns"
         ],
         "allyBonusUniques": [
-                        "[+6 Production] [in all cities]",
+                        "[+5 Production] [in all cities]",
                         "[+10]% [Production] [in all cities]",
                         "Provides military units every ≈[8] turns",
                         "[+2 Production] from [Strategic resource] tiles [in all cities]"
@@ -83,13 +64,6 @@
     },
     {
         "name": "Religious",
-        "uniques":[
-            "Cities are razed [3] times as fast",
-            "[+2 Faith, +2 Production] from all [Faith] buildings",
-            "[+100]% Production when constructing [Faith] buildings [in all cities]",
-            "May buy [Military] units with [Faith] for [3] times their normal Production cost"
-        ],
-        
         "friendBonusUniques": [
                         "[+4 Faith] <before the [Medieval era]>",
                         "[+8 Faith] <starting from the [Medieval era]> <before the [Industrial era]>",
@@ -107,5 +81,22 @@
                         "[+15]% Natural religion spread [in all cities]"
         ],
         "color": [255, 255, 255]
-    }
+    },
+    {
+        "name": "WOD",
+        "friendBonusUniques": [
+                        "Provides military units every ≈[10] turns",
+                        "[+15]% Production when constructing [Military] units [in all cities]",
+                        "[1] XP gained from combat",
+        ],
+        "allyBonusUniques":  [
+                        "Provides military units every ≈[5] turns",
+                        "[+20]% Production when constructing [Military] units [in all cities]",
+                        "[1] XP gained from combat",
+                        "[+25]% XP gained from combat",
+                        "Provides [10] [Iron]",
+                        "Provides [10] [Oil]",
+        ],
+        "color": [255, 0, 0]
+    },
 ]
