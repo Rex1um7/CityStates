@@ -11,7 +11,10 @@
     {
         "name": "CS ability",
         "uniques":[
-            "May enter foreign tiles without open borders"
+            	"May enter foreign tiles without open borders",
+		"[+1] Movement <for [All] units> <when at war>",
+        	"[+1] Movement <for [All] units> <in [Foreign] cities>",
+		"[-15]% Strength <when attacking>"
         ]
     }
 ]
