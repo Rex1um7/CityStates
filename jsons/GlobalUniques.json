@@ -5,6 +5,8 @@
         "[+50]% [Production] [in all cities] <for [City-States]>",
         "[+50]% [Gold] [in all cities] <for [City-States]>",
         "[+25]% [Food] [in all cities] <for [City-States]>",
+        "[+5 Culture] [in all cities] <for [City-States]>",
+        "[-25]% Culture cost of natural border growth [in all cities] <for [City-States]>",
         "All newly-trained [Military] units [in all cities] receive the [CS ability] promotion <for [City-States]>",
      ]
 }
