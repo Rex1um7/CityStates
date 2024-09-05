@@ -9,7 +9,6 @@
         "[-25]% Culture cost of natural border growth [in all cities] <for [City-States]>",
         "[+1] Movement <for [All] units> <when at war> <for [City-States]>",
         "[+1] Movement <for [All] units> <in [Foreign] cities> <for [City-States]>",
-        "[-15]% Strength <for [All] units> <when attacking> <for [City-States]>",
         "All newly-trained [All] units [in all cities] receive the [CS ability] promotion <for [City-States]>",
         "Cities are razed [3] times as fast <for [City-States]>",
         "Population loss from nuclear attacks [-75]% [in all cities] <for [City-States]>",
