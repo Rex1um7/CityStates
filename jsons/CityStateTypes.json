@@ -7,7 +7,6 @@
                         "[+13 Culture] <starting from the [Industrial era]>",
                         "[+19 Culture] <starting from the [Modern era]>",
                         "[+30 Culture] <starting from the [Atomic era]>",
-                        "[+10]% [Culture] [in all cities]"
         ],
         "allyBonusUniques": [
                         "[+6 Culture] <before the [Medieval era]>",
@@ -15,7 +14,6 @@
                         "[+26 Culture] <starting from the [Industrial era]>",
                         "[+38 Culture] <starting from the [Modern era]>",
                         "[+60 Culture] <starting from the [Atomic era]>",
-                        "[+10]% [Culture] [in all cities]",
                         "[-10]% Culture cost of adopting new Policies"
         ],
         "color": [139, 96, 255]
@@ -58,7 +56,6 @@
                         "[+5 Production] [in all cities]",
                         "[+10]% [Production] [in all cities]",
                         "Provides military units every ≈[8] turns",
-                        "[+2 Production] from [Strategic resource] tiles [in all cities]"
         ],
         "color": [255, 0, 0]
     },
