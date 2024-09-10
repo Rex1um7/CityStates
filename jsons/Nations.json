@@ -8,6 +8,7 @@
 	"startBias":["[Coast]","[Hill]"],
 	"uniqueName": "Kids are cruel",
     "uniques": [
+	    "Diplomatic relationships cannot change",
 	    "[+1 Gold, +1 Production, +1 Food] from [all] tiles [in all cities]",
 	    "[+200]% unhappiness from the number of cities",
 	    "[+125]% Unhappiness from [Population] [in all cities]",
