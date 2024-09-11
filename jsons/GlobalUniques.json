@@ -9,7 +9,8 @@
         "[-25]% Culture cost of natural border growth [in all cities] <for [City-States]>",
         "All newly-trained [All] units [in all cities] receive the [CS ability] promotion <for [City-States]>",
         "Cities are razed [3] times as fast <for [City-States]>",
-        "Population loss from nuclear attacks [-75]% [in all cities] <for [City-States]>",
+         "Population loss from nuclear attacks [-75]% [in all cities] <for [City-States]>",
+         "[+100]% [Production] [in all cities] <upon declaring war with a major Civilization> <for [10] turns> <for [City-States]>",
      ]
 }
 
