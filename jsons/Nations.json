@@ -108,7 +108,7 @@
 		"startBias": ["Coast"],
 		"uniques":[
 			"[3] free [Great Artist] units appear",
-			"Adopt [Tradition] <upon discovering [Agriculture] technology>"
+			"Starts with [Tradition] adopted"
 		],
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
