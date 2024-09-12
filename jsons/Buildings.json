@@ -1,15 +1,19 @@
-{
-    "name":"Stone City",
-    "cost":150,
-    "requiredTech":"Currency",
-    "specialistSlots": {"Artist": 2},
-    "requiredNearbyImprovedResources": ["Stone"],
-    "happiness": 3,
-    "culture": 3,
-    "percentStatBonus": {"gold": 30},
-    "uniqueTo":"Zanzibar",
-     "uniques":[
-        "[+1 Production] from [Stone] tiles [in this city]",
-         "[+1 Production, +1 Gold] from [Spices] tiles [in this city]"
-     ]
-}
+[
+    {
+        "name":"Stone City",
+        "cost":150,
+        "hurryCostModifier": 0,
+        "maintenance": 1,
+        "requiredTech":"Currency",
+        "specialistSlots": {"Artist": 2},
+        "requiredNearbyImprovedResources": ["Stone"],
+        "happiness": 3,
+        "culture": 3,
+        "percentStatBonus": {"gold": 30},
+        "uniqueTo":"Zanzibar",
+         "uniques":[
+            "[+1 Production] from [Stone] tiles [in this city]",
+             "[+1 Production, +1 Gold] from [Spices] tiles [in this city]"
+         ]
+    },
+]
