@@ -7,7 +7,7 @@
         "[+25]% [Food] [in all cities] <for [City-States]>",
         "[+3 Culture] [in all cities] <for [City-States]>",
         "[-50]% Culture cost of natural border growth [in all cities] <for [City-States]>",
-          "[+20]% Strength <when fighting in [Farm] tiles> <for [City-States]>",
+          "[+25]% Strength <when fighting in [Friendly] tiles> <for [City-States]>",
         "All newly-trained [All] units [in all cities] receive the [CS ability] promotion <for [City-States]>",
         "Cities are razed [3] times as fast <for [City-States]>",
          "Population loss from nuclear attacks [-75]% [in all cities] <for [City-States]>",
