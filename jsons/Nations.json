@@ -54,11 +54,12 @@
 	{
 		"name": "Genoa",
 		"adjective": ["Genoese"],
+		"leaderName":"Giovanni Battista Durazzo",
 		"cityStateType": "Mercantile",
 		"startBias": ["Coast"],
 		"uniques":[
-			"[+15]% Yield from every [Coast]",
-			"[+15]% Yield from every [Ocean]"
+			"[+20]% Yield from every [Coast]",
+			"[+20]% Yield from every [Ocean]"
 		],
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
@@ -121,7 +122,7 @@
 		"name": "Zanzibar",
 		"adjective": ["Zanzibar"],
 		"cityStateType": "Mercantile",
-		"startBias": ["Coast"],
+		"startBias": ["Coast","Stone"],
 		"uniques":[
 			"Provides [1] [Spices]",
 			"Provides [1] [Spices] <if [Gold] is constructed>",
