@@ -89,9 +89,11 @@
 		"cityStateType": "Mercantile",
 		"startBias": ["Coast"],
 		"uniques":[
-			"[+2 Gold, +2 Production] from each Trade Route",
-			"Earn [10]% of the damage done to [All] units as [Gold]",
-			"Earn [10]% of the damage done to [All] units as [Culture]",
+			"[+2 Gold, +2 Production] from [Atoll] tiles",
+			"[+1 Food] from [Ocena] tiles",
+			"[+1 Food] from [Coast] tiles",
+			"Earn [15]% of the damage done to [All] units as [Gold]",
+			"Earn [15]% of the damage done to [All] units as [Culture]",
 		],
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
@@ -107,7 +109,9 @@
 		"startBias": ["Coast"],
 		"uniques":[
 			"[3] free [Great Artist] units appear",
-			"Starts with [Tradition] adopted"
+			"[+2 Production, +3 Gold] from [Landmark] tiles",
+			"Starts with [Tradition] adopted",
+			"Starts with [Landed Elite] adopted",
 		],
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
