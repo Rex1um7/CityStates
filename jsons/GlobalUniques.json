@@ -11,6 +11,8 @@
           "[+20]% Strength <when fighting in [Friendly] tiles> <for [City-States]>",
           "City-State territory always counts as friendly territory <for [City-States]>",
           "[+2] Movement <for [Settler] units> <for [City-States]>",
+          "[1] free [Worker] units appear",
+          "[2] free [Warrior] units appear",
         "All newly-trained [All] units [in all cities] receive the [CS ability] promotion <for [City-States]>",
         "Cities are razed [3] times as fast <for [City-States]>",
          "Population loss from nuclear attacks [-75]% [in all cities] <for [City-States]>",
