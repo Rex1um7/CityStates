@@ -4,7 +4,7 @@
         "[+25]% Production when constructing [Military] units [in all cities] <for [City-States]>",
         "[+50]% [Production] [in all cities] <for [City-States]>",
         "[+50]% [Gold] [in all cities] <for [City-States]>",
-        "[+25]% [Food] [in all cities] <for [City-States]>",
+        "[+50]% [Food] [in all cities] <for [City-States]>",
         "[+5 Culture] [in all cities] <for [City-States]>",
         "[-25]% Culture cost of natural border growth [in all cities] <for [City-States]>",
           "[25]% food is carried over after population increases [in all cities] <for [City-States]>",
@@ -14,7 +14,7 @@
         "All newly-trained [All] units [in all cities] receive the [CS ability] promotion <for [City-States]>",
         "Cities are razed [3] times as fast <for [City-States]>",
          "Population loss from nuclear attacks [-75]% [in all cities] <for [City-States]>",
-         "[+100]% [Production] [in all cities] <upon declaring war with a major Civilization> <for [10] turns> <for [City-States]>",
+         "[+75]% [Production] [in all cities] <upon declaring war with a major Civilization> <for [10] turns> <for [City-States]>",
           "Military Units gifted from City-States start with [20] XP",
      ]
 }
