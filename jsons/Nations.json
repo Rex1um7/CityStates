@@ -89,9 +89,9 @@
 		"cityStateType": "Mercantile",
 		"startBias": ["Coast"],
 		"uniques":[
-			"[+2 Gold, +2 Production] from [Atoll] tiles",
-			"[+1 Food] from [Ocena] tiles",
-			"[+1 Food] from [Coast] tiles",
+			"[+2 Gold, +2 Production] from [Atoll] tiles [in all cities]",
+			"[+1 Food] from [Ocena] tiles [in all cities]",
+			"[+1 Food] from [Coast] tiles [in all cities]",
 			"Earn [15]% of the damage done to [All] units as [Gold]",
 			"Earn [15]% of the damage done to [All] units as [Culture]",
 		],
@@ -109,7 +109,7 @@
 		"startBias": ["Coast"],
 		"uniques":[
 			"[3] free [Great Artist] units appear",
-			"[+2 Production, +3 Gold] from [Landmark] tiles",
+			"[+2 Production, +3 Gold] from [Landmark] tiles [in all cities]",
 			"Starts with [Tradition] adopted",
 			"Starts with [Landed Elite] adopted",
 		],
