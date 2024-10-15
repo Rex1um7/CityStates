@@ -15,5 +15,17 @@
 		"Double movement in [Rough terrain]",
 		"[-15]% Strength"
         ]
-    }
+    },
+	{
+		"name":"CS ability (Defend)",
+		"uniques":[
+            		"Free [Warrior] units appear <during the [Medieval era]>",
+			"Free [Swordsman] units appear <during the [Renaissance era]>",
+			"Free [Longswordsman] units appear <during the [Industrial era]>",
+			"Free [Musketman] units appear <during the [Modern era]>",
+			"Free [Rifleman] units appear <during the [Atomic era]>",
+			"Free [Great War Infantry] units appear <during the [Information era]>",
+			"Free [Infantry] units appear <upon entering the [Future era]>",
+        	]
+	}
 ]
