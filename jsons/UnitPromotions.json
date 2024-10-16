@@ -13,6 +13,7 @@
             	"May enter foreign tiles without open borders",
 		"[+1] Movement <for [All] units> <when at war>",
 		"Double movement in [Rough terrain]",
+		"Ignores terrain cost <for [Civilian] units>",
 		"[-15]% Strength"
         ]
     },
