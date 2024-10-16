@@ -20,10 +20,11 @@
             "Provides [5] [Coal] <for [City-States] Civilizations>",
             "Provides [3] [Aluminum] <for [City-States] Civilizations>",
             "Provides [3] [Uranium] <for [City-States] Civilizations>",
-            "All newly-trained [All] units [in all cities] receive the [CS ability] promotion <for [City-States] Civilizations>",
+            "[All] units gain the [CS ability] promotion <for [City-States] Civilizations>",
             "All newly-trained [Military] units [in all cities] receive the [CS ability (Defend)] promotion <upon declaring war with a major Civilization> <upon discovering [Chivalry] technology> <for [City-States] Civilizations>",
             "Cities are razed [3] times as fast <for [City-States] Civilizations>",
             "Population loss from nuclear attacks [-75]% [in all cities] <for [City-States] Civilizations>",
+            "[5] Unit Supply per [1] population [in all cities] <for [City-States] Civilizations>",
             "Military Units gifted from City-States start with [20] XP",
      ]
 }
