@@ -21,13 +21,7 @@
 	{
 		"name":"CS ability (Defend)",
 		"uniques":[
-            		"Free [Spearman] appears <during the [Medieval era]>",
-			"Free [Swordsman] appears <during the [Renaissance era]>",
-			"Free [Longswordsman] appears <during the [Industrial era]>",
-			"Free [Musketman] appears <during the [Modern era]>",
-			"Free [Rifleman] appears <during the [Atomic era]>",
-			"Free [Great War Infantry] appears <during the [Information era]>",
-			"Free [Infantry] appears <upon entering the [Future era]>",
+            		"Free [Swordsman] appears",
         	]
 	}
 ]
