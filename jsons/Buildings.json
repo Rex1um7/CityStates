@@ -20,6 +20,8 @@
         "name":"Emergency Mobilization Protocol",
         "uniques":[
             "All newly-trained [All] units [in this city] receive the [CS ability (Defend)] promotion <when at war>",
+            "Unbuildable",
+            "Cannot be purchased",
          ]
     },
 ]
