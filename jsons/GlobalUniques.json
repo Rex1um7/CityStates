@@ -21,7 +21,7 @@
                 "[+1] Movement <for [Settler] units> <for [City-States] Civilizations>",
                 "[1] free [Worker] units appear <for [City-States] Civilizations>",
                 "[4] free [Spearman] units appear <for [City-States] Civilizations>",
-                "[-40]% Gold cost of upgrading <for [Military] units>",
+                "[-40]% Gold cost of upgrading <for [Military] units> <for [City-States] Civilizations>",
                 //City-States Politics
                 "City-State territory always counts as friendly territory <for [City-States] Civilizations>",
                 "City-State Influence recovers at twice the normal rate <for [City-States] Civilizations>",
