@@ -20,11 +20,10 @@
                 "All newly-trained [Military] units [in all cities] receive the [CS ability (Defend)] promotion <after discovering [Chivalry]> <when at war> <for [City-States] Civilizations>",
                 "[+1] Movement <for [Settler] units> <for [City-States] Civilizations>",
                 "[1] free [Worker] units appear <for [City-States] Civilizations>",
-                "[2] free [Spearman] units appear <for [City-States] Civilizations>",
+                "[4] free [Spearman] units appear <for [City-States] Civilizations>",
                 //City-States Politics
                 "City-State territory always counts as friendly territory <for [City-States] Civilizations>",
                 "City-State Influence recovers at twice the normal rate <for [City-States] Civilizations>",
-                "Resting point for Influence with City-States is increased by [+80] <for [City-States] Civilizations>",
                 //City-States Resources
                 "Provides [10] [Iron] <after discovering [Iron Working]>  <for [City-States] Civilizations>",
                 "Provides [10] [Horses] <after discovering [Animal Husbandry]> <for [City-States] Civilizations>",
