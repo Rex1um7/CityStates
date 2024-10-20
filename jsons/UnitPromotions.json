@@ -15,7 +15,7 @@
 		"Double movement in [Rough terrain]",
 		"[+3] Movement <in [Marsh] tiles>",
 		"Ignores terrain cost <for [Civilian] units>",
-		"[-15]% Strength"
+		"[-15]% Strength <when defending>"
         ]
     },
 	{
