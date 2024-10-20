@@ -16,4 +16,10 @@
              "[+1 Production, +1 Gold] from [Spices] tiles [in this city]"
          ]
     },
+    {
+        "name":"Emergency Mobilization Protocol",
+        "uniques":[
+            "All newly-trained [All] units [in this city] receive the [CS ability (Defend)] promotion <when at war>",
+         ]
+    },
 ]
