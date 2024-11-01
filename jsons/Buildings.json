@@ -24,4 +24,15 @@
             "Cannot be purchased",
          ]
     },
+    {
+        "name":"Urban Upgrading Program",
+        "uniques":[
+            "Indicates the capital city",
+            "[+25]% Production towards any buildings that already exist in the Capital",
+            "[+1 Happiness, +1 Production] from each Trade Route",
+            "Requires at least [5] population",
+            "Limited to [4] per Civilization",
+            "Cannot be purchased",
+         ]
+    }
 ]
