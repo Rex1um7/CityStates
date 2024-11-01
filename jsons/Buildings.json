@@ -32,6 +32,7 @@
             "[+1 Happiness, +1 Production] from each Trade Route",
             "Requires at least [5] population",
             "Limited to [4] per Civilization",
+            "Only available <in cities without a [Palace]>",
             "Cannot be purchased",
          ]
     }
