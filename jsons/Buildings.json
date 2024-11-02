@@ -26,6 +26,7 @@
     },
     {
         "name":"Urban Upgrading Program",
+        "cityStrength": 8,
         "uniques":[
             "Indicates the capital city",
             "[+25]% Production when constructing [All] buildings [in this city]",
