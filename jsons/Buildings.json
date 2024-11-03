@@ -20,6 +20,7 @@
         "name":"Emergency Mobilization Protocol",
         "uniques":[
             "All newly-trained [All] units [in this city] receive the [CS ability (Defend)] promotion <when at war>",
+            "Enables nuclear weapon <after discovering [Nuclear Fission]>",
             "Unbuildable",
             "Cannot be purchased",
          ]
