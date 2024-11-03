@@ -13,7 +13,7 @@
                 "[25]% Food is carried over after population increases [in all cities] <for [City-States] Civilizations>",
                 //City-States Military
                 "[+15]% Strength <when fighting in [Friendly] tiles> <for [City-States] Civilizations>",
-               "[-20]% Strength <when fighting in [Enemy] tiles> <for [City-States] Civilizations>",
+               "[-25]% Strength <when fighting in [Enemy] tiles> <for [City-States] Civilizations>",
                 "[+10]% Strength <for [Wounded] units> <for [City-States] Civilizations>",
                 "New [Military] units start with [5] Experience [in this city] <in cities with a [Palace]> <for [City-States] Civilizations>",
                 "New [Military] units start with [10] Experience [in this city] <in cities with a [Barracks]> <for [City-States] Civilizations>",
@@ -29,10 +29,10 @@
                 //City-States Resources
                 "Provides [10] [Iron] <after discovering [Iron Working]>  <for [City-States] Civilizations>",
                 "Provides [10] [Horses] <after discovering [Animal Husbandry]> <for [City-States] Civilizations>",
-                "Provides [5] [Coal] <after discovering [Industrialization]> <for [City-States] Civilizations>",
-                "Provides [5] [Oil] <after discovering [Biology]> <for [City-States] Civilizations>",
-                "Provides [3] [Aluminum] <after discovering [Electricity]> <for [City-States] Civilizations>",
-                "Provides [3] [Uranium] <after discovering [Atomic Theory]> <for [City-States] Civilizations>",
+                "Provides [7] [Coal] <after discovering [Industrialization]> <for [City-States] Civilizations>",
+                "Provides [7] [Oil] <after discovering [Biology]> <for [City-States] Civilizations>",
+                "Provides [5] [Aluminum] <after discovering [Electricity]> <for [City-States] Civilizations>",
+                "Provides [5] [Uranium] <after discovering [Atomic Theory]> <for [City-States] Civilizations>",
                 //City-States Ability
                 "Cities are razed [3] times as fast <for [City-States] Civilizations>",
                 "Population loss from nuclear attacks [-75]% [in all cities] <for [City-States] Civilizations>",
