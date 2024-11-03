@@ -38,6 +38,13 @@
                 "Population loss from nuclear attacks [-75]% [in all cities] <for [City-States] Civilizations>",
                 "[5] Unit Supply per [1] population [in all cities] <for [City-States] Civilizations>",
                 "Military Units gifted from City-States start with [20] XP",
+                 "[+100]% spy effectiveness [in all cities] <for [City-States] Civilizations>",
+                 "New spies start with [5] level(s) <for [City-States] Civilizations>",
+                 "Gain an extra spy  <upon entering the [Ancient era]> <for [City-States] Civilizations>",
+                 "Gain an extra spy  <upon entering the [Medieval era]> <for [City-States] Civilizations>",
+                 "Gain an extra spy  <upon entering the [Classical era]> <for [City-States] Civilizations>",
+                 "Gain an extra spy  <upon entering the [Renaissance era]> <for [City-States] Civilizations>",
+                 "Gain an extra spy  <upon entering the [Industrial era]> <for [City-States] Civilizations>",
      ]
 }
 
