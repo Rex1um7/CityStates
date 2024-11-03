@@ -29,11 +29,10 @@
         "cost": 1,
         "cityStrength": 8,
         "uniques":[
-            //"Indicates the capital city",
             "[+25]% Production when constructing [All] buildings [in this city]",
             "[+1 Production, +1 Food, +1 Science, +1 Culture, +2 Gold] from each Trade Route",
-            "Requires at least [8] population",
-            "Limited to [6] per Civilization",
+            "Requires at least [12] population",
+            "Limited to [10] per Civilization",
             "Only available <in cities without a [Palace]>",
             "Gain [-500] [Gold] <(modified by game speed)>",
             "Cannot be purchased",
