@@ -15,6 +15,7 @@
                 "[+15]% Strength <when fighting in [Friendly] tiles> <for [City-States] Civilizations>",
                "[-30]% Strength <when fighting in [Enemy] tiles> <for [City-States] Civilizations>",
                 "[+10]% Strength <for [Wounded] units> <for [City-States] Civilizations>",
+               "[+30]% to Flank Attack bonuses <for [City-States] Civilizations>",
                 "New [Military] units start with [5] Experience [in this city] <in cities with a [Palace]> <for [City-States] Civilizations>",
                 "New [Military] units start with [10] Experience [in this city] <in cities with a [Barracks]> <for [City-States] Civilizations>",
                 "[All] units gain the [CS ability] promotion <for [City-States] Civilizations>",
