@@ -11,9 +11,8 @@
         "name": "CS ability",
         "uniques":[
             	"May enter foreign tiles without open borders",
-		"[+1] Movement <for [All] units> <when at war>",
+		"[+1] Movement <for [All] units>",
 		"Double movement in [Rough terrain]",
-		"[+3] Movement <in [Marsh] tiles>",
 		"Ignores terrain cost <for [Civilian] units>",
         ]
     },
@@ -21,7 +20,7 @@
 		"name":"CS ability (Defend)",
 		"uniques":[
             		"Free [Swordsman] appears",
-			"[+10]% Strength <when defending> <when fighting in [Friendly] tiles>",
+			"[+20]% Strength <when defending> <when fighting in [Friendly] tiles>",
         	]
 	}
 ]
