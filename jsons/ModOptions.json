@@ -2,4 +2,14 @@
     "uniques": [
         "Allow City States to spawn with additional units",
   ],
+    "constants":
+  {
+      "unitSupplyPerPopulation": 3,
+      "baseTurnsUntilRevolt": 3,
+    "maxSpyRank": 5,
+      "cityExpandRange": 4,
+    "cityStrengthPerPop": 0.5,
+      "cityStrengthFromGarrison": 0.4,
+      "cityStrengthFromTechsFullMultiplier": 2,
+  }
 }
