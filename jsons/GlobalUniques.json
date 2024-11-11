@@ -21,7 +21,6 @@
                 "Gain a free [Emergency Mobilization Protocol] [in all cities] <for [City-States] Civilizations> <after discovering [Chivalry]>",
                 "[+1] Movement <for [Settler] units> <for [City-States] Civilizations>",
                 "[1] free [Worker] units appear <for [City-States] Civilizations>",
-                "[4] free [Spearman] units appear <for [City-States] Civilizations>",
                 "[-25]% Gold cost of upgrading <for [Military] units> <for [City-States] Civilizations>",
                 //City-States Politics
                 "City-State territory always counts as friendly territory <for [City-States] Civilizations>",
@@ -39,7 +38,11 @@
                 "Military Units gifted from City-States start with [15] XP",
                  "[+100]% spy effectiveness [in all cities] <for [City-States] Civilizations>",
                  "New spies start with [5] level(s) <for [City-States] Civilizations>",
-                 "Gain an extra spy <upon entering the [Ancient era]> <for [City-States] Civilization",
+                 "Gain an extra spy <upon entering the [Ancient era]> <for [City-States] Civilization>",
+               "Gain an extra spy <upon entering the [Classical era]> <for [City-States] Civilization>",
+               "Gain an extra spy <upon entering the [Medieval era]> <for [City-States] Civilization>",
+               // Global
+               "Enables Research agreements <upon discovering [Education] technology>",
      ]
 }
 
