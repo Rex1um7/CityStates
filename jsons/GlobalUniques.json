@@ -38,9 +38,9 @@
                 "Military Units gifted from City-States start with [15] XP",
                  "[+100]% spy effectiveness [in all cities] <for [City-States] Civilizations>",
                  "New spies start with [5] level(s) <for [City-States] Civilizations>",
-                 "Gain an extra spy <upon entering the [Ancient era]> <for [City-States] Civilization>",
-               "Gain an extra spy <upon entering the [Classical era]> <for [City-States] Civilization>",
-               "Gain an extra spy <upon entering the [Medieval era]> <for [City-States] Civilization>",
+                 "Gain an extra spy <upon entering the [Ancient era]> <for [City-States] Civilizations>",
+               "Gain an extra spy <upon entering the [Classical era]> <for [City-States] Civilizations>",
+               "Gain an extra spy <upon entering the [Medieval era]> <for [City-States] Civilizations>",
                // Global
                "Enables Research agreements <upon discovering [Education] technology>",
      ]
