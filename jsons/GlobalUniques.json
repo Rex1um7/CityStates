@@ -12,7 +12,7 @@
                 "[-25]% Culture cost of natural border growth [in all cities] <for [City-States] Civilizations>",
                 "[25]% Food is carried over after population increases [in all cities] <for [City-States] Civilizations>",
                 //City-States Military
-               "[-30]% Strength <when fighting in [Enemy] tiles> <for [City-States] Civilizations>",
+               "[-30]% Strength <when fighting in [Foreign Land] tiles> <for [City-States] Civilizations>",
                 "[+10]% Strength <for [Wounded] units> <for [City-States] Civilizations>",
                "[+30]% to Flank Attack bonuses <for [City-States] Civilizations>",
                 "New [Military] units start with [10] Experience [in this city] <in cities with a [Palace]> <for [City-States] Civilizations>",
