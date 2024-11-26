@@ -14,6 +14,7 @@
 		"[+1] Movement <for [All] units>",
 		"Double movement in [Rough terrain]",
 		"Ignores terrain cost <for [Civilian] units>",
+		"[+5] HP when healing",
         ]
     },
 	{
