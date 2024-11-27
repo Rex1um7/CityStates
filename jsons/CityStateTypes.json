@@ -86,6 +86,20 @@
         "color": [255, 255, 255]
     },
     {
+        "name": "Scientific",
+        "friendBonusUniques": [
+            "[+2 Science] [in capital]",
+            "[+3 Science] from [Academy] tiles [in all cities]"
+        ],
+        "allyBonusUniques":  [
+            "[+6 Science] from [Academy] tiles [in all cities]",
+            "[+4 Science] [in capital]",
+            "[+2 Science] [in all cities]",
+        ],
+        "color": [28, 74, 255]
+        
+    }
+    {
         "name": "WOD",
         "friendBonusUniques": [
                         "Provides military units every ≈[10] turns",
