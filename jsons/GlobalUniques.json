@@ -24,12 +24,12 @@
                 //City-States Politics
                 "City-State territory always counts as friendly territory <for [City-States] Civilizations>",
                 //City-States Resources
-                "Provides [10] [Iron] <after discovering [Iron Working]> <for [City-States] Civilizations>",
-                "Provides [10] [Horses] <after discovering [Animal Husbandry]> <for [City-States] Civilizations>",
-                "Provides [8] [Coal] <after discovering [Industrialization]> <for [City-States] Civilizations>",
-                "Provides [8] [Oil] <after discovering [Biology]> <for [City-States] Civilizations>",
-                "Provides [5] [Aluminum] <after discovering [Electricity]> <for [City-States] Civilizations>",
-                "Provides [5] [Uranium] <after discovering [Atomic Theory]> <for [City-States] Civilizations>",
+                "Provides [20] [Iron] <after discovering [Iron Working]> <for [City-States] Civilizations>",
+                "Provides [20] [Horses] <after discovering [Animal Husbandry]> <for [City-States] Civilizations>",
+                "Provides [10] [Coal] <after discovering [Industrialization]> <for [City-States] Civilizations>",
+                "Provides [10] [Oil] <after discovering [Biology]> <for [City-States] Civilizations>",
+                "Provides [10] [Aluminum] <after discovering [Electricity]> <for [City-States] Civilizations>",
+                "Provides [10] [Uranium] <after discovering [Atomic Theory]> <for [City-States] Civilizations>",
                 //City-States Ability
                 "Cities are razed [3] times as fast <for [City-States] Civilizations>",
                 "Population loss from nuclear attacks [-75]% [in all cities] <for [City-States] Civilizations>",
