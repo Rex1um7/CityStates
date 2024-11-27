@@ -415,5 +415,17 @@
 		"outerColor": [0, 0, 0],
 		"innerColor": [51,102,0],
 		"cities": ["Quebec City"]
-	}
-	]
+	},
+	{
+		"name": "Caguana",
+		"adjective": ["Caguanian"],
+		"cityStateType": "Scientific",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "We were too weak to protect ourselves...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [125,24,234],
+		"cities": ["Caguana"]
+	},
+]
