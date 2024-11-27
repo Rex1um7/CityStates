@@ -419,8 +419,7 @@
 	{
 		"name": "Caguana",
 		"adjective": ["Caguanian"],
-		"cityStateType": "Scientific",
-
+		"cityStateType": "Cultured",
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
 		"defeated": "We were too weak to protect ourselves...",
