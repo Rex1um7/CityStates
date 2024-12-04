@@ -25,12 +25,11 @@
         "friendBonusUniques": [
                         "[+4 Food] [in capital]",
                         "[+2 Food] [in all cities]",
-                        "[+5]% [Food] [in all cities]"
         ],
         "allyBonusUniques": [
                         "[+8 Food] [in capital]", 
-                        "[+2 Food] [in all cities]",
-                        "[+10]% [Food] [in all cities]",
+                        "[+3 Food] [in all cities]",
+                        "[+5]% [Food] [in all cities]",
                         "[3]% Food is carried over after population increases [in all cities]"
         ],
         "color": [56, 255, 112]
@@ -38,16 +37,18 @@
     {
         "name": "Mercantile",
         "friendBonusUniques": [
+                        "[+5 Gold] [in capital]", 
+                        "[+2 Gold] [in all cities]",
                         "[+10]% [Gold] [in all cities]",
                         "Provides a unique luxury",
-                        "[-5]% Gold cost of acquiring tiles [in all cities]"
         ],
         "allyBonusUniques": [
-                        "[+15]% [Gold] [in all cities]",
+                        "[+8 Gold] [in capital]", 
+                        "[+4 Gold] [in all cities]",
+                        "[+10]% [Gold] [in all cities]",
                         "Provides a unique luxury",
-                        "[+15]% Happiness from luxury resources gifted by City-States",
+                        "[1] Happiness from each type of luxury resource",
                         "[Gold] cost of purchasing items in cities [-5]%",
-                        "[-5]% Gold cost of acquiring tiles [in all cities]"
         ],
         "color": [255, 216, 0]
     },
