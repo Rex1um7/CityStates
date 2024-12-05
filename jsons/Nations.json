@@ -458,7 +458,7 @@
 		"attacked": "Very well, this shall not be forgotten.",
 		"defeated": "We were too weak to protect ourselves...",
 		"outerColor": [0, 0, 0],
-		"innerColor": [61,0,202],
+		"innerColor": [255, 209, 0],
 		"cities": ["Geneva"]
 	},
 	{
@@ -493,7 +493,8 @@
 		"outerColor": [0, 0, 0],
 		"innerColor": [30,144,255],
 		"cities": ["Nalanda"]
-	},{
+	},
+	{
 		"name": "Taruga",
 		"adjective": ["Taruga"],
 		"cityStateType": "Scientific",
