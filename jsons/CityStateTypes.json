@@ -150,13 +150,14 @@
                         "[+14 Faith] <starting from the [Medieval era]> <before the [Industrial era]>",
                         "[+26 Faith] <starting from the [Industrial era]>",
                         "[+40 Faith] <starting from the [Modern era]>",
+                        "[+5]% [Faith] [in all cities]",
         ],
         "allyBonusUniques":  [
                         "[+12 Faith] <before the [Medieval era]>",
                         "[+26 Faith] <starting from the [Medieval era]> <before the [Industrial era]>",
                         "[+45 Faith] <starting from the [Industrial era]>",
                         "[+60 Faith] <starting from the [Modern era]>",
-                        "[+40]% Natural religion spread [in this city] <with [0] to [4] neighboring [Holy site] tiles>",
+                        "[+40]% Natural religion spread [in this city] <with [0] to [5] neighboring [Holy site] tiles>",
         ],
         "color": [255, 255, 255]
     },
@@ -169,7 +170,7 @@
         ],
         "allyBonusUniques":  [
                         "Provides military units every ≈[5] turns",
-                        "[+5 Production] [in all cities]",
+                        "[+6 Production] [in all cities]",
                         "[+15]% Production when constructing [Military] units [in all cities]",
                         "[1] XP gained from combat",
                         "[+25]% XP gained from combat",
