@@ -4,7 +4,7 @@
     "adjectives": "Winds of Destruction",
     "leaderName": "Sundowner",
     "style":"North American",
-    "cityStateType": "WOD",
+    "cityStateType": "Winds of Destruction",
 	"startBias":["[Coast]","[Hill]"],
 	"uniqueName": "Kids are cruel",
     "uniques": [
@@ -254,11 +254,7 @@
 	{
 		"name": "Bratislava",
 		"adjective": ["Bratislava"],
-		"cityStateType": "Religious",
-		"uniques":[
-			
-	    	
-		],
+		"cityStateType": "Bratislava",
 		"declaringWar": "I didn't want to do this. We declare war.",
 		"attacked": "I will fear no evil. For god is with me!",
 		"defeated": "Why have you forsaken us my lord?",
@@ -269,11 +265,7 @@
 	{
 		"name": "Cahokia",
 		"adjective": ["Cahokia"],
-		"cityStateType": "Religious",
-		"uniques":[
-			
-	    	
-		],
+		"cityStateType": "Cahokia",
 		"declaringWar": "We have wanted this for a LONG time. War it shall be.",
 		"attacked": "Very well, we will kick you back to the ancient era!",
 		"defeated": "This isn't how it is supposed to be!",
@@ -284,11 +276,7 @@
 	{
 		"name": "Jerusalem",
 		"adjective": ["Jerusalem"],
-		"cityStateType": "Religious",
-		"uniques":[
-			
-	    	
-		],
+		"cityStateType": "Jerusalem",
 		"declaringWar": "By god's grace we will not allow these atrocities to occur any longer. We declare war!",
 		"attacked": "May god have mercy on your evil soul.",
 		"defeated": "I for one welcome our new conquer overlord!",
