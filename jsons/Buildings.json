@@ -1,4 +1,23 @@
 [
+    // Ally buildings
+    {
+        "name":"Cahokia Mounds",
+        "cost": 200,
+        "hurryCostModifier": 25,
+        "Faith": 3
+        "Culture": 2
+        "Happiness": 2
+        "maintenance": 4,
+         "uniques":[
+             "Only available <with [Construction of Cahokia Mounds]>",
+             "[-10]% Unhappiness from [Population] [in this city]",
+             "[+1 Happiness, +1 Culture] from every [Shrine] <in this city>",
+            "[+2 Happiness, +1 Culture] from every [Temple] <in this city>",
+            "[+4 Happiness, +4 Culture, +8 Faith] from every [Grand Temple] <in this city>",
+         ]
+    },
+    
+    // City-States building
     {
         "name":"Stone City",
         "cost":150,
