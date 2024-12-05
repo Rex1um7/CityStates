@@ -16,7 +16,9 @@
             "[+4 Happiness, +4 Culture, +8 Faith] from every [Grand Temple] <in this city>",
          ],
         "civilopediaText": [
+            {
                 "link": "Nations/Cahokia",
+            },
         ]
     },
     
