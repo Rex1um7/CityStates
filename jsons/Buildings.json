@@ -14,7 +14,10 @@
              "[+1 Happiness, +1 Culture, +1 Faith] from every [Shrine] <in this city>",
             "[+2 Happiness, +1 Culture, +2 Faith] from every [Temple] <in this city>",
             "[+4 Happiness, +4 Culture, +8 Faith] from every [Grand Temple] <in this city>",
-         ]
+         ],
+        "civilopediaText": [
+                "link": "Nations/Cahokia",
+        ]
     },
     
     // City-States building
