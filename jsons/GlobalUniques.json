@@ -5,14 +5,14 @@
                 "[+75]% Production when constructing [Military] units [in all cities] <for [City-States] Civilizations>",
                 "[+75]% [Production] [in all cities] <for [City-States] Civilizations>",
                 "[+100]% [Production] [in all cities] <upon declaring war with a major Civilization> <for [10] turns> <for [City-States] Civilizations>",
-                "[+3 Production] [in all cities] <upon declaring war with a major Civilization> <for [City-States] Civilizations>",
+                "[+5 Production] [in all cities] <upon declaring war with a major Civilization> <for [City-States] Civilizations>",
                 "[+50]% [Gold] [in all cities] <for [City-States] Civilizations>",
                 "[+50]% [Food] [in all cities] <for [City-States] Civilizations>",
                 "[+4 Culture] [in all cities] <for [City-States] Civilizations>",
                 "[-25]% Culture cost of natural border growth [in all cities] <for [City-States] Civilizations>",
-                "[25]% Food is carried over after population increases [in all cities] <for [City-States] Civilizations>",
+                "[20]% Food is carried over after population increases [in all cities] <for [City-States] Civilizations>",
                 //City-States Military
-               "[-35]% Strength <when fighting in [Foreign Land] tiles> <for [City-States] Civilizations>",
+               "[-33]% Strength <when fighting in [Foreign Land] tiles> <for [City-States] Civilizations>",
                "[+15]% Strength <when fighting in [Friendly Land] tiles> <for [City-States] Civilizations>",
                "[+40]% to Flank Attack bonuses <for [City-States] Civilizations>",
                 "New [Military] units start with [15] Experience [in this city] <in cities with a [Palace]> <for [City-States] Civilizations>",
@@ -21,7 +21,7 @@
                 "Gain a free [Emergency Mobilization Protocol] [in all cities] <for [City-States] Civilizations> <after discovering [Chivalry]>",
                 "[+1] Movement <for [Settler] units> <for [City-States] Civilizations>",
                 "[1] free [Worker] units appear <for [City-States] Civilizations>",
-                "[-25]% Gold cost of upgrading <for [Military] units> <for [City-States] Civilizations>",
+                "[-50]% Gold cost of upgrading <for [Military] units> <for [City-States] Civilizations>",
                 //City-States Politics
                 "City-State territory always counts as friendly territory <for [City-States] Civilizations>",
                 //City-States Resources
@@ -34,7 +34,6 @@
                 //City-States Ability
                 "Cities are razed [3] times as fast <for [City-States] Civilizations>",
                 "Population loss from nuclear attacks [-75]% [in all cities] <for [City-States] Civilizations>",
-                "[5] Unit Supply per [1] population [in all cities] <for [City-States] Civilizations>",
                 "Military Units gifted from City-States start with [15] XP",
                  "[+100]% spy effectiveness [in all cities] <for [City-States] Civilizations>",
                  "New spies start with [5] level(s) <for [City-States] Civilizations>",
