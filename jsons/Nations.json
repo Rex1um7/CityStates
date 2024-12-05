@@ -447,7 +447,7 @@
 		"attacked": "Very well, this shall not be forgotten.",
 		"defeated": "We were too weak to protect ourselves...",
 		"outerColor": [0, 0, 0],
-		"innerColor": [22,0,164],
+		"innerColor": [27, 40, 119],
 		"cities": ["Fez"]
 	},
 	{
