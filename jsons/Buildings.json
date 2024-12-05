@@ -17,8 +17,9 @@
          ],
         "civilopediaText": [
             {
-                "text":"",
+                "text":"Archaeological evidence from the site suggests the mounds were a key part of the religious practices of the culture...",
                 "link":"Nations/Cahokia",
+                "color": "white",
             },
         ]
     },
