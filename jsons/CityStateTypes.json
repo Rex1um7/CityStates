@@ -90,12 +90,15 @@
         "name": "Scientific",
         "friendBonusUniques": [
             "[+3 Science] [in capital]",
-            "[+4 Science] from [Academy] tiles [in all cities]"
+            "[+4 Science] from [Academy] tiles [in all cities]",
+            "[+1 Science] from every [Library]",
+            "[+2 Science] from every [University]",
         ],
         "allyBonusUniques":  [
             "[+6 Science] from [Academy] tiles [in all cities]",
-            "[+3 Science] [in capital]",
+            "[+6 Science] [in capital]",
             "[+2 Science] from every [Library]",
+            "[+4 Science] from every [University]",
         ],
         "color": [104, 120, 255]
         
