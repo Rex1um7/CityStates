@@ -80,7 +80,7 @@
                         "[+26 Faith] <starting from the [Medieval era]> <before the [Industrial era]>",
                         "[+45 Faith] <starting from the [Industrial era]>",
                         "[+60 Faith] <starting from the [Modern era]>",
-                        "[+15]% [Faith] [in all cities]",
+                        "[+10]% [Faith] [in all cities]",
                         "[Faith] cost of purchasing items in cities [-10]%",
                         "[+20]% Natural religion spread [in all cities]"
         ],
@@ -99,9 +99,69 @@
         ],
         "color": [104, 120, 255]
         
-    }
+    },
+    
+    //Religious 
     {
-        "name": "WOD",
+        "name": "Bratislava",
+        "friendBonusUniques": [
+                        "[+8 Faith] <before the [Medieval era]>",
+                        "[+14 Faith] <starting from the [Medieval era]> <before the [Industrial era]>",
+                        "[+26 Faith] <starting from the [Industrial era]>",
+                        "[+40 Faith] <starting from the [Modern era]>",
+                        "[+10]% [Faith] [in all cities]",
+        ],
+        "allyBonusUniques":  [
+                        "[+12 Faith] <before the [Medieval era]>",
+                        "[+26 Faith] <starting from the [Medieval era]> <before the [Industrial era]>",
+                        "[+45 Faith] <starting from the [Industrial era]>",
+                        "[+60 Faith] <starting from the [Modern era]>",
+                        "[+5]% [Faith] from every [Faith]",
+                        "Religion naturally spreads to cities [2] tiles away",
+        ],
+        "color": [255, 255, 255]
+    },
+    {
+        "name": "Cahokia",
+        "friendBonusUniques": [
+                        "[+8 Faith] <before the [Medieval era]>",
+                        "[+14 Faith] <starting from the [Medieval era]> <before the [Industrial era]>",
+                        "[+26 Faith] <starting from the [Industrial era]>",
+                        "[+40 Faith] <starting from the [Modern era]>",
+                        "[+1 Happiness, +1 Faith] from every [Shrine]",
+        ],
+        "allyBonusUniques":  [
+                        "[+12 Faith] <before the [Medieval era]>",
+                        "[+26 Faith] <starting from the [Medieval era]> <before the [Industrial era]>",
+                        "[+45 Faith] <starting from the [Industrial era]>",
+                        "[+60 Faith] <starting from the [Modern era]>",
+                        "[+1 Happiness, +1 Culture] from every [Shrine]",
+                        "[+2 Happiness, +1 Culture] from every [Temple]",
+                        "[+4 Happiness, +4 Culture, +8 Faith] from every [Grand Temple]",
+                        "Enable the construction of [Cahokia Mounds]",
+                        "Provides [1] [Construction of Cahokia Mounds] <hidden from users>",
+        ],
+        "color": [255, 255, 255]
+    },
+    {
+        "name": "Jerusalem",
+        "friendBonusUniques": [
+                        "[+8 Faith] <before the [Medieval era]>",
+                        "[+14 Faith] <starting from the [Medieval era]> <before the [Industrial era]>",
+                        "[+26 Faith] <starting from the [Industrial era]>",
+                        "[+40 Faith] <starting from the [Modern era]>",
+        ],
+        "allyBonusUniques":  [
+                        "[+12 Faith] <before the [Medieval era]>",
+                        "[+26 Faith] <starting from the [Medieval era]> <before the [Industrial era]>",
+                        "[+45 Faith] <starting from the [Industrial era]>",
+                        "[+60 Faith] <starting from the [Modern era]>",
+                        "[+40]% Natural religion spread [in this city] <with [0] to [4] neighboring [Holy site] tiles>",
+        ],
+        "color": [255, 255, 255]
+    },
+    {
+        "name": "Winds of Destruction",
         "friendBonusUniques": [
                         "Provides military units every ≈[10] turns",
                         "[1] XP gained from combat",
