@@ -56,10 +56,16 @@
         "cost": 325,
         "cityStrength": 15,
         "maintenance": 8,        
+        "civilopediaText":[
+            {
+                "text": "Accelerate the development of this city, doubled the development while entering Industrial era"
+            }
+        ],
         "uniques":[
-            "[+10]% Production when constructing [All] buildings [in this city]",
+            "[+15]% Production when constructing [All] buildings [in this city]",
             "[+10]% growth [in this city]",
             "[+1 Production, +1 Food, +1 Science, +1 Culture, +2 Gold] from each Trade Route",
+            "[+1 Production, +1 Food, +1 Science, +1 Culture, +2 Gold] from each Trade Route <upon entering the [Industrial era]> <hidden from users>",
             "Requires at least [12] population",
             "Limited to [10] per Civilization",
             "Only available <in cities without a [Palace]>",
