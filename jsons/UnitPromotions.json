@@ -12,19 +12,18 @@
         "uniques":[
             	"May enter foreign tiles without open borders",
 		"[+1] Movement <for [All] units>",
-		"Double movement in [Rough terrain]",
 		"Ignores terrain cost <for [Civilian] units>",
 		"[+5] HP when healing",
 		"[-25]% Strength <when fighting in [Foreign Land] tiles>",
                "[+10]% Strength <when fighting in [Friendly Land] tiles>",
-               "[+40]% to Flank Attack bonuses",
+               "[+50]% to Flank Attack bonuses",
         ]
     },
 	{
 		"name":"CS ability (Defend)",
 		"uniques":[
             		"Free [Swordsman] appears",
-			"[+20]% Strength <when defending> <when fighting in [Friendly] tiles>",
+			"[+15]% Strength <when defending> <when fighting in [Friendly] tiles>",
         	]
 	}
 ]
