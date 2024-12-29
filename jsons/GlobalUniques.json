@@ -20,6 +20,8 @@
                 "[+2] Movement <for [Civilian] units> <for [City-States] Civilizations>",
                 "[1] free [Worker] units appear <for [City-States] Civilizations>",
                 "[-50]% Gold cost of upgrading <for [Military] units> <for [City-States] Civilizations>",
+                "May buy [All] units with [Gold] [in all cities] <when above [750] [Gold]> <with [20]% chance> <for [City-States] Civilizations>",
+                "May buy items in puppet cities <for [City-States] Civilizations>",
                 //City-States Politics
                 "City-State territory always counts as friendly territory <for [City-States] Civilizations>",
                 //City-States Resources
