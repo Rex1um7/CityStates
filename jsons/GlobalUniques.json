@@ -41,8 +41,9 @@
                "Gain an extra spy <upon entering the [Medieval era]> <for [City-States] Civilizations>",
                // Global
                "Enables Research agreements <upon discovering [Education] technology>",
-               "May buy [All] units with [Gold] [in all cities] <when above [750] [Gold]> <with [25]% chance> <for [AI player] Civilizations>",
-               "May buy [All] buildings with [Gold] [in all cities] <when above [750] [Gold]> <with [25]% chance> <for [AI player] Civilizations>"
+               "May buy [Military] units with [Gold] [in all cities] <when above [750] [Gold]> <with [25]% chance> <for [AI player] Civilizations>",
+               "May buy [Settler] units with [Gold] [in all cities] <when above [1000] [Gold]> <with [20]% chance> <for [AI player] Civilizations>",
+               "May buy [All] buildings with [Gold] [in all cities] <when above [750] [Gold]> <with [25]% chance> <for [AI player] Civilizations>",
      ]
 }
 
