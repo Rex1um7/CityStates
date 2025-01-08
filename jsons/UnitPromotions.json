@@ -15,7 +15,7 @@
 		"Ignores terrain cost <for [Civilian] units>",
 		"[+5] HP when healing",
 		"[-20]% Strength <when fighting in [Enemy] tiles>",
-               "[+10]% Strength <when fighting in [Friendly Land] tiles>",
+               "[+10]% Strength <when fighting in [Friendly] tiles>",
                "[+50]% to Flank Attack bonuses",
         ]
     },
