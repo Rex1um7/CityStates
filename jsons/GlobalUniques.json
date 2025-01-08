@@ -22,7 +22,7 @@
                 "[-50]% Gold cost of upgrading <for [Military] units> <for [City-States] Civilizations>",
                 "May buy items in puppet cities <for [City-States] Civilizations>",
                 //City-States Politics
-                "City-State territory always counts as friendly territory <for [City-States] Civilizations>",
+                //"City-State territory always counts as friendly territory <for [City-States] Civilizations>",
                 //City-States Resources
                 "Provides [20] [Iron] <after discovering [Iron Working]> <for [City-States] Civilizations>",
                 "Provides [20] [Horses] <after discovering [Animal Husbandry]> <for [City-States] Civilizations>",
