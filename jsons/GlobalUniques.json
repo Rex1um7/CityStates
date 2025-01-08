@@ -36,14 +36,10 @@
                 "Military Units gifted from City-States start with [15] XP",
                  "[+100]% spy effectiveness [in all cities] <for [City-States] Civilizations>",
                  "New spies start with [5] level(s) <for [City-States] Civilizations>",
-                 "Gain an extra spy <upon entering the [Ancient era]> <for [City-States] Civilizations>",
-               "Gain an extra spy <upon entering the [Classical era]> <for [City-States] Civilizations>",
-               "Gain an extra spy <upon entering the [Medieval era]> <for [City-States] Civilizations>",
                // Global
                "Enables Research agreements <upon discovering [Education] technology>",
                "May buy [Military] units with [Gold] [in all cities] <when above [750] [Gold]> <with [25]% chance> <for [AI player] Civilizations>",
                "May buy [Settler] units with [Gold] [in all cities] <when above [500] [Gold]> <with [20]% chance> <for [AI player] Civilizations>",
-               "May buy [All] buildings with [Gold] [in all cities] <when above [750] [Gold]> <with [25]% chance> <for [AI player] Civilizations>",
      ]
 }
 
