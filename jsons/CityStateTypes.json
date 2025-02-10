@@ -62,7 +62,7 @@
         "allyBonusUniques": [
                         "[+5 Production] [in all cities]",
                         "[+10]% [Production] [in all cities]",
-                        "[+1 Production] from [Strategic] tiles [in capital]",
+                        "[+1 Production] from [Strategic resource] tiles [in all cities]",
                         "Provides military units every ≈[8] turns",
         ],
         "color": [255, 0, 0]
