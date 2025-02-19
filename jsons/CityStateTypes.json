@@ -16,7 +16,7 @@
                         "[+38 Culture] <starting from the [Modern era]>",
                         "[+60 Culture] <starting from the [Atomic era]>",
                         "[+5]% [Culture] [in all cities]",
-                        "[-3]% Culture cost of adopting new Policies"
+                        "[-2]% Culture cost of adopting new Policies"
         ],
         "color": [139, 96, 255]
     },
@@ -29,8 +29,7 @@
         "allyBonusUniques": [
                         "[+8 Food] [in capital]", 
                         "[+3 Food] [in all cities]",
-                        "[+5]% [Food] [in all cities]",
-                        "[3]% Food is carried over after population increases [in all cities]"
+                        "[4]% Food is carried over after population increases [in all cities]"
         ],
         "color": [56, 255, 112]
     },
@@ -39,13 +38,12 @@
         "friendBonusUniques": [
                         "[+5 Gold] [in capital]", 
                         "[+2 Gold] [in all cities]",
-                        "[+10]% [Gold] [in all cities]",
-                        "Provides a unique luxury",
+                        "[+5]% [Gold] [in all cities]",
         ],
         "allyBonusUniques": [
                         "[+10 Gold] [in capital]", 
                         "[+4 Gold] [in all cities]",
-                        "[+10]% [Gold] [in all cities]",
+                        "[+5]% [Gold] [in all cities]",
                         "Provides a unique luxury",
                         "[1] Happiness from each type of luxury resource",
                         "[Gold] cost of purchasing items in cities [-5]%",
@@ -60,10 +58,10 @@
                         "Provides military units every ≈[12] turns"
         ],
         "allyBonusUniques": [
-                        "[+5 Production] [in all cities]",
+                        "[+6 Production] [in all cities]",
                         "[+10]% [Production] [in all cities]",
                         "[+1 Production] from [Strategic resource] tiles [in all cities]",
-                        "Provides military units every ≈[8] turns",
+                        "Provides military units every ≈[9] turns",
         ],
         "color": [255, 0, 0]
     },
@@ -83,7 +81,7 @@
                         "[+60 Faith] <starting from the [Modern era]>",
                         "[+10]% [Faith] [in all cities]",
                         "[Faith] cost of purchasing items in cities [-10]%",
-                        "[+20]% Natural religion spread [in all cities]"
+                        "[+15]% Natural religion spread [in all cities]"
         ],
         "color": [255, 255, 255]
     },
@@ -173,12 +171,13 @@
         ],
         "allyBonusUniques":  [
                         "Provides military units every ≈[5] turns",
-                        "[+6 Production] [in all cities]",
-                        "[+15]% Production when constructing [Military] units [in all cities]",
+                        "[+5 Production] [in all cities]",
+                        "[+20]% Production when constructing [Military] units [in all cities]",
                         "[1] XP gained from combat",
-                        "[+25]% XP gained from combat",
-                        "Provides [15] [Iron]",
-                        "Provides [15] [Oil]",
+                        "[+20]% XP gained from combat",
+                        "[+25]% City-State Influence degradation",
+                        "Provides [12] [Iron]",
+                        "Provides [12] [Oil]",
         ],
         "color": [255, 0, 0]
     },
