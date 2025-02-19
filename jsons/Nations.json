@@ -221,10 +221,10 @@
 		"cityStateType": "Militaristic",
 
 		"uniques":[
-			"[+100]% Production when constructing [All] units [in all cities] <hidden from users>",
-			"[-40]% Strength <for [All] units> <when fighting in [Enemy Land] tiles>",
-			"All newly-trained [Military] units [in all cities] receive the [UcantSeeUs] promotion",
-			"Rebel units may spawn"
+			"[+50]% Production when constructing [All] units [in all cities] <hidden from users>",
+			"[-33]% Strength <for [All] units> <when fighting in [Enemy Land] tiles> <hidden from users>",
+			"All newly-trained [Military] units [in all cities] receive the [UcantSeeUs] promotion <hidden from users>",
+			"Rebel units may spawn <starting from the [Classical era]> <every [4] turns>"
 		],
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
