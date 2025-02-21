@@ -1,16 +1,18 @@
 {
     "uniques": [
         "Allow City States to spawn with additional units",
+        "Diplomatic relationships cannot change",
   ],
     "constants":
   {
       "unitSupplyPerPopulation": 3,
       "baseTurnsUntilRevolt": 3,
     "maxSpyRank": 5,
+      "cityStateElectionTurns": 10,
       "cityExpandRange": 4,
-    "cityStrengthPerPop": 0.5,
-      "cityStrengthFromGarrison": 0.4,
-      "cityStrengthFromTechsFullMultiplier": 2,
+    "cityStrengthPerPop": 0.8,
+      "cityStrengthFromGarrison": 0.3,
+      "cityStrengthFromTechsFullMultiplier": 1.2,
       "maxXPfromBarbarians": 9999
   },
 }
