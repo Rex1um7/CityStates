@@ -12,9 +12,9 @@
                 "[-33]% Culture cost of natural border growth [in all cities] <for [City-States] Civilizations>",
                 "[15]% Food is carried over after population increases [in all cities] <for [City-States] Civilizations>",
                 //City-States Military
-                "New [Military] units start with [15] Experience [in this city] <in cities with a [Palace]> <for [City-States] Civilizations>",
-                "New [Military] units start with [15] Experience [in this city] <in cities with a [Barracks]> <for [City-States] Civilizations>",
-               "New [Military] units start with [10] Experience [in this city] <in cities with a [Armory]> <for [City-States] Civilizations>",
+                "New [Military] units start with [15] XP [in this city] <in cities with a [Palace]> <for [City-States] Civilizations>",
+                "New [Military] units start with [15] XP [in this city] <in cities with a [Barracks]> <for [City-States] Civilizations>",
+               "New [Military] units start with [10] XP [in this city] <in cities with a [Armory]> <for [City-States] Civilizations>",
                 "[All] units gain the [CS ability] promotion <for [City-States] Civilizations>",
                 "Gain a free [Emergency Mobilization Protocol] [in all cities] <for [City-States] Civilizations> <after discovering [Chivalry]>",
                 "[1] free [Worker] units appear <for [City-States] Civilizations>",
