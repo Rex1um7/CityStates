@@ -445,8 +445,8 @@
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
 		"defeated": "We were too weak to protect ourselves...",
-		"outerColor": [0, 0, 0],
-		"innerColor": [27, 40, 119],
+		"outerColor": [4, 4, 4],
+		"innerColor": [84, 93, 153],
 		"cities": ["Fez"]
 	},
 	{
