@@ -31,7 +31,7 @@
                 //City-States Ability
                 "Cities are razed [3] times as fast <when below [0] Happiness> <for [City-States] Civilizations>",
                 "Cities are razed [0] times as fast <while the empire is happy> <in cities with at least [5] [Population]> <for [City-States] Civilizations>",
-                "May not annex cities <with [0]% chance> <upon conquering a city> <for [City-States] Civilizations>",
+                "May not annex cities <with [100]% chance> <while the empire is happy> <for [City-States] Civilizations>",
                 "Population loss from nuclear attacks [-50]% [in all cities] <for [City-States] Civilizations>",
                 "Military Units gifted from City-States start with [15] XP",
                  "[+100]% spy effectiveness [in all cities] <for [City-States] Civilizations>",
