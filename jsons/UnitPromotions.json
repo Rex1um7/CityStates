@@ -11,6 +11,7 @@
         "name": "CS ability",
         "uniques":[
             	"May enter foreign tiles without open borders",
+		"Founds a new puppet city <upon conquering a city> <while the empire is happy> <for [City-States] Civilizations>",
 		"[+1] Movement <for [All] units>",
 		"[+2] Movement <for [Settler] units> <for [City-States] Civilizations>",
 		"Ignores terrain cost <for [Civilian] units>",
