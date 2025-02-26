@@ -18,7 +18,6 @@
                 "[All] units gain the [CS ability] promotion <for [City-States] Civilizations>",
                 "Gain a free [Emergency Mobilization Protocol] [in all cities] <for [City-States] Civilizations> <after discovering [Chivalry]>",
                 "[1] free [Worker] units appear <for [City-States] Civilizations>",
-                "[-50]% Gold cost of upgrading <for [Military] units> <for [City-States] Civilizations>",
                 //City-States Politics
                 "City-State territory always counts as friendly territory <for [City-States] Civilizations>",
                 //City-States Resources
@@ -30,7 +29,10 @@
                 "Provides [10] [Uranium] <after discovering [Atomic Theory]> <for [City-States] Civilizations>",
                 //City-States Ability
                 "Cities are razed [3] times as fast <when below [0] Happiness> <for [City-States] Civilizations>",
-                "Cities are razed [0] times as fast <while the empire is happy> <in cities with at least [5] [Population]> <for [City-States] Civilizations>",
+                "Cities are razed [0] times as fast <while the empire is happy> <for [City-States] Civilizations>",
+               "[-50]% Gold cost of upgrading <for [Military] units> <for [City-States] Civilizations>",
+               "[Gold] cost of purchasing items in cities [-50]% <for [City-States] Civilizations>",
+                "May buy items in puppet cities <for [City-States] Civilizations>",
                 "Population loss from nuclear attacks [-50]% [in all cities] <for [City-States] Civilizations>",
                 "Military Units gifted from City-States start with [15] XP",
                  "[+100]% spy effectiveness [in all cities] <for [City-States] Civilizations>",
