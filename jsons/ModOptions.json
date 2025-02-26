@@ -9,9 +9,9 @@
     "maxSpyRank": 5,
       "cityStateElectionTurns": 10,
       "cityExpandRange": 4,
-    "cityStrengthPerPop": 0.75,
-      "cityStrengthFromTechsExponent": 3.5,
-      "cityStrengthFromGarrison": 0.3,
+    "cityStrengthPerPop": 0.5,
+      "cityStrengthFromTechsExponent": 3.3,
+      "cityStrengthFromGarrison": 0.25,
       "cityStrengthFromTechsFullMultiplier": 1.2,
       "maxXPfromBarbarians": 9999
   },
