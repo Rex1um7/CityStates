@@ -9,7 +9,7 @@
                 "[+50]% [Gold] [in all cities] <for [City-States] Civilizations>",
                 "[+20]% [Food] [in all cities] <for [City-States] Civilizations>",
                 "[+3 Culture] [in all cities] <for [City-States] Civilizations>",
-                "[-33]% Culture cost of natural border growth [in all cities] <for [City-States] Civilizations>",
+                "[-33]% Culture cost of natural border growth [in capital] <for [City-States] Civilizations>",
                 "[15]% Food is carried over after population increases [in all cities] <for [City-States] Civilizations>",
                 //City-States Military
                 "New [Military] units start with [15] XP [in all cities] <in cities with a [Palace]> <for [City-States] Civilizations>",
