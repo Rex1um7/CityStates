@@ -3,6 +3,7 @@
     "name": "Winds of Destruction",
     "adjectives": "Winds of Destruction",
     "leaderName": "Sundowner",
+	"personality": "Sundowner",
     "style":"North American",
     "cityStateType": "Winds of Destruction",
 	"startBias":["[Coast]","[Hill]"],
