@@ -31,5 +31,13 @@
 			"Free [Pikeman] appears <starting from the [Industrial era]> <for [City-States] Civilizations> <hidden from users>",
 			"[+10]% Strength <when defending> <when fighting in [Friendly] tiles>",
         	]
-	}
+	},
+	{
+		"name":"Visa",
+		"uniques":[
+            		"May enter foreign tiles without open borders <upon entering a [City-States] tile> <for [All] units>",
+               		"May enter foreign tiles without open borders <upon entering a [Friendly] tile> <upon declaring friendship> <for [All] units>",
+        	]
+	},
+		
 ]
