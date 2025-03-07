@@ -39,8 +39,7 @@
                  "New spies start with [5] level(s) <for [City-States] Civilizations>",
                // Global
                "Enables Research agreements <upon discovering [Education] technology>",
-               "May enter foreign tiles without open borders <upon entering a [City-States] tile> <for [All] units>",
-               "May enter foreign tiles without open borders <upon entering a [Friendly] tile> <upon declaring friendship> <for [All] units>",
+               "[All] units gain the [Visa] promotion <for [Major] Civilizations>",
      ]
 }
 
