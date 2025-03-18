@@ -30,7 +30,7 @@
                 //City-States Ability
                 "Cities are razed [3] times as fast <in cities with less than [5] [Population]> <for [City-States] Civilizations> ",
                "Cities are razed [3] times as fast <when below [0] Happiness> <for [City-States] Civilizations> ",
-                "Cities are razed [0] times as fast <while the empire is happy> <for [City-States] Civilizations>",
+                "Cities are razed [0] times as fast <while the empire is happy> <in cities with at least [5] [Population]> <for [City-States] Civilizations>",
                "[-50]% Gold cost of upgrading <for [Military] units> <for [City-States] Civilizations>",
                "[Gold] cost of purchasing items in cities [-50]% <for [City-States] Civilizations>",
                 "May buy items in puppet cities <for [City-States] Civilizations>",
