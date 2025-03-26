@@ -7,7 +7,7 @@
                         "[+13 Culture] <starting from the [Industrial era]>",
                         "[+19 Culture] <starting from the [Modern era]>",
                         "[+30 Culture] <starting from the [Atomic era]>",
-                        "[+5]% [Culture] [in all cities]",
+                        "[+3]% [Culture] [in all cities]",
         ],
         "allyBonusUniques": [
                         "[+6 Culture] <before the [Medieval era]>",
@@ -15,7 +15,7 @@
                         "[+26 Culture] <starting from the [Industrial era]>",
                         "[+38 Culture] <starting from the [Modern era]>",
                         "[+60 Culture] <starting from the [Atomic era]>",
-                        "[+5]% [Culture] [in all cities]",
+                        "[+3]% [Culture] [in all cities]",
                         "[-2]% Culture cost of adopting new Policies"
         ],
         "color": [139, 96, 255]
@@ -27,9 +27,9 @@
                         "[+2 Food] [in all cities]",
         ],
         "allyBonusUniques": [
-                        "[+8 Food] [in capital]", 
+                        "[+6 Food] [in capital]", 
                         "[+3 Food] [in all cities]",
-                        "[4]% Food is carried over after population increases [in all cities]"
+                        "[3]% Food is carried over after population increases [in all cities]"
         ],
         "color": [56, 255, 112]
     },
@@ -58,8 +58,8 @@
                         "Provides military units every ≈[12] turns"
         ],
         "allyBonusUniques": [
-                        "[+6 Production] [in all cities]",
-                        "[+10]% [Production] [in all cities]",
+                        "[+5 Production] [in all cities]",
+                        "[+5]% [Production] [in all cities]",
                         "[+1 Production] from [Strategic resource] tiles [in all cities]",
                         "Provides military units every ≈[9] turns",
         ],
