@@ -11,6 +11,7 @@
         "name": "CS ability",
         "uniques":[
             	"May enter foreign tiles without open borders",
+		"Free [Settler] appears <upon conquering a city>",
 		"[+1] Movement <for [All] units>",
 		"[+2] Movement <for [Settler] units> <for [City-States] Civilizations> <hidden from users>",
 		"Ignores terrain cost <for [Civilian] units>",
