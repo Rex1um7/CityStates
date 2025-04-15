@@ -25,6 +25,7 @@
     },
     
     // City-States building
+    // Unique
     {
         "name":"Stone City",
         "cost":150,
@@ -42,8 +43,10 @@
              "[+1 Production, +1 Gold] from [Spices] tiles [in this city]"
          ]
     },
+    // CS common buildings
     {
         "name":"Emergency Mobilization Protocol",
+        "greatPersonPoints": {"Great General": 4},
         "uniques":[
             "All newly-trained [All] units [in this city] receive the [CS ability (Defend)] promotion <when at war>",
             "Enables nuclear weapon <after discovering [Nuclear Fission]>",
