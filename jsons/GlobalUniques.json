@@ -36,7 +36,7 @@
                 "Military Units gifted from City-States start with [15] XP",
                  "[+100]% spy effectiveness [in all cities] <for [City-States] Civilizations>",
                  "New spies start with [5] level(s) <for [City-States] Civilizations>",
-               "Reveal up to [All] [City center] within a [8] tile radius <within [0] tiles of a [Friendly Land]> <for [City-States] Civilizations>"
+               "Reveal up to [All] [City center] within a [8] tile radius <within [1] tiles of a [Friendly Land]> <for [City-States] Civilizations>"
                // Global
                "Enables Research agreements <upon discovering [Education] technology>",
                "[All] units gain the [Visa] promotion <for [Major] Civilizations>",
