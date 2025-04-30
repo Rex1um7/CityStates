@@ -18,7 +18,7 @@
 		"[-25]% construction time for [All] improvements <for [City-States] Civilizations> <hidden from users>",
 		"[+5] HP when healing <for [City-States] Civilizations> <hidden from users>",
 		"[-20]% Strength <when fighting in [Enemy] tiles> <for [City-States] Civilizations> <hidden from users>",
-		"[-10]% Strength <in tiles adjacent to [City center] tiles> <when fighting in [Enemy] tiles> <for [City-States] Civilizations> <hidden from users>",
+		"[-10]% Strength <when fighting in [Enemy] tiles> <for [City-States] Civilizations> <in tiles adjacent to [City center] tiles> <hidden from users>",
 		"Unable to pillage tiles <when above [50] HP> <for [City-States] Civilizations> <hidden from users>",
                "[+10]% Strength <when fighting in [Friendly] tiles> ",
                "[+50]% to Flank Attack bonuses",
