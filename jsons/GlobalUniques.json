@@ -40,7 +40,7 @@
                "Reveal up to [All] [City center] within a [8] tile radius <within [1] tiles of a [Friendly Land]> <for [City-States] Civilizations>"
                // Global
                "Enables Research agreements <upon discovering [Education] technology>",
-               "[All] units gain the [Visa] promotion <for [Major] Civilizations>",
+               "[All] units gain the [Visa] promotion <for [{AI player} {Major}] Civilizations>",
      ]
 }
 
