@@ -27,10 +27,10 @@
                 //City-States Resources
                 "Provides [20] [Iron] <after discovering [Iron Working]> <for [City-States] Civilizations>",
                 "Provides [20] [Horses] <after discovering [Animal Husbandry]> <for [City-States] Civilizations>",
-                "Provides [10] [Coal] <after discovering [Industrialization]> <for [City-States] Civilizations>",
-                "Provides [10] [Oil] <after discovering [Biology]> <for [City-States] Civilizations>",
-                "Provides [10] [Aluminum] <after discovering [Electricity]> <for [City-States] Civilizations>",
-                "Provides [6] [Uranium] <after discovering [Atomic Theory]> <for [City-States] Civilizations>",
+                "Provides [12] [Coal] <after discovering [Industrialization]> <for [City-States] Civilizations>",
+                "Provides [12] [Oil] <after discovering [Biology]> <for [City-States] Civilizations>",
+                "Provides [12] [Aluminum] <after discovering [Electricity]> <for [City-States] Civilizations>",
+                "Provides [8] [Uranium] <after discovering [Atomic Theory]> <for [City-States] Civilizations>",
                 //City-States Ability
                "Cities are razed [3] times as fast <for [City-States] Civilizations> ",
                "[-50]% Gold cost of upgrading <for [Military] units> <for [City-States] Civilizations>",
@@ -44,7 +44,7 @@
                "Gain a free [Population Migration Policy] [in this city] <upon founding a city> <for [City-States] Civilizations>",
                // Global
                "Enables Research agreements <upon discovering [Education] technology>",
-               "[All] units gain the [Visa] promotion <for [{Major}] Civilizations>",
+               "[AI player] units gain the [Visa] promotion <for [{Major}] Civilizations>",
      ]
 }
 
