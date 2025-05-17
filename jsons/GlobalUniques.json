@@ -1,7 +1,7 @@
 {
      "uniques":[
                 // City-States Tile
-                "[+20]% Yield from every [Land] tiles <for [City-States] Civilizations>",
+                "[+20]% Yield from every [Land] <for [City-States] Civilizations>",
                "[+2 Production] from [Strategic resource] tiles [in all cities] <for [City-States] Civilizations>",
                "[+2 Gold, +1 Happiness] from [Luxury resource] tiles [in all cities] <for [City-States] Civilizations>",
                "[+1 Food] from [Bonus resource] tiles [in all cities] <for [City-States] Civilizations>",
