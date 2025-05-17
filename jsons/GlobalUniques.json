@@ -1,10 +1,11 @@
 {
      "uniques":[
-                //City-States Development
+                // City-States Tile
                 "[+20]% Yield from every [Land] tiles [in all cities] <for [City-States] Civilizations>",
                "[+2 Production] from [Strategic resource] tiles [in all cities] <for [City-States] Civilizations>",
                "[+2 Gold, +1 Happiness] from [Luxury resource] tiles [in all cities] <for [City-States] Civilizations>",
                "[+1 Food] from [Bonus resource] tiles [in all cities] <for [City-States] Civilizations>",
+               // City-States City 
                 "[+50]% Production when constructing [Military] units [in all cities] <for [City-States] Civilizations>",
                 "[+50]% Production when constructing [All] buildings [in all cities] <for [City-States] Civilizations>",
                 "[+50]% [Production] [in all cities] <when at war> <for [City-States] Civilizations>",
@@ -17,7 +18,7 @@
                 //City-States Military
                 "New [Military] units start with [15] XP [in all cities] <in cities with a [Palace]> <for [City-States] Civilizations>",
                 "New [Military] units start with [15] XP [in all cities] <in cities with a [Barracks]> <for [City-States] Civilizations>",
-               "New [Military] units start with [10] XP [in all cities] <in cities with a [Armory]> <for [City-States] Civilizations>",
+               "New [Military] units start with [15] XP [in all cities] <in cities with a [Armory]> <for [City-States] Civilizations>",
                 "[All] units gain the [CS ability] promotion <for [City-States] Civilizations>",
                 "Gain a free [Emergency Mobilization Protocol] [in all cities] <for [City-States] Civilizations> <after discovering [Chivalry]>",
                "Gain a free [Manhattan Project] [in capital] <for [City-States] Civilizations> <after discovering [Nuclear Fission]>",
@@ -40,7 +41,8 @@
                 "Military Units gifted from City-States start with [15] XP",
                  "[+100]% spy effectiveness [in all cities] <for [City-States] Civilizations>",
                  "New spies start with [5] level(s) <for [City-States] Civilizations>",
-               "Reveal up to [All] [City center] within a [8] tile radius <within [1] tiles of a [Friendly Land]> <for [City-States] Civilizations>"
+               "Reveal up to [All] [City center] within a [8] tile radius <within [1] tiles of a [Friendly Land]> <for [City-States] Civilizations>",
+               "Gain a free [Population migration policy] [in this city] <upon founding a city> <for [City-States] Civilizations>",
                // Global
                "Enables Research agreements <upon discovering [Education] technology>",
                "[All] units gain the [Visa] promotion <for [{Major}] Civilizations>",
