@@ -49,12 +49,22 @@
         "greatPersonPoints": {"Great General": 4},
         "uniques":[
             "All newly-trained [All] units [in this city] receive the [CS ability (Defend)] promotion <when at war>",
-            "Enables nuclear weapon <after discovering [Nuclear Fission]>",
             "Unbuildable",
             "Cannot be purchased",
          ]
     },
-
+    {
+        "name":"Population Migration Policy",
+        "uniques":[
+            "[1] free [Worker] units appear",
+            "[1] free [Warrior] units appear",
+            "Gain a free [Monument] [in this city] <starting from the [Medieval era]>",
+            "Gain a free [Granary] [in this city] <starting from the [Medieval era]>",
+            "Gain a free [Walls] [in this city] <starting from the [Medieval era]>",
+            "Unbuildable",
+            "Cannot be purchased",
+         ]
+    },
     // Civ common buildings
     {
         "name":"Urban Upgrading Program",
@@ -75,7 +85,7 @@
             "Requires at least [10] population",
             "Limited to [10] per Civilization",
             "Only available <in cities without a [Palace]>",
-            "Gain [-700] [Gold] <(modified by game speed)>",
+            "Gain [-600] [Gold] <(modified by game speed)>",
             "Cannot be purchased",
             "Destroyed when the city is captured",
          ]
