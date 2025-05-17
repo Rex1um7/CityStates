@@ -1,7 +1,10 @@
 {
      "uniques":[
                 //City-States Development
-                "[+1 Gold, +1 Science] from [All] tiles [in all cities] <for [City-States] Civilizations>",
+                "[+20]% Yield from every [Land] tiles [in all cities] <for [City-States] Civilizations>",
+               "[+2 Production] from [Strategic resource] tiles [in all cities] <for [City-States] Civilizations>",
+               "[+2 Gold, +1 Happiness] from [Luxury resource] tiles [in all cities] <for [City-States] Civilizations>",
+               "[+1 Food] from [Bonus resource] tiles [in all cities] <for [City-States] Civilizations>",
                 "[+50]% Production when constructing [Military] units [in all cities] <for [City-States] Civilizations>",
                 "[+50]% Production when constructing [All] buildings [in all cities] <for [City-States] Civilizations>",
                 "[+50]% [Production] [in all cities] <when at war> <for [City-States] Civilizations>",
@@ -10,7 +13,7 @@
                 "[+20]% [Food] [in all cities] <for [City-States] Civilizations>",
                 "[+3 Culture] [in all cities] <for [City-States] Civilizations>",
                 "[-33]% Culture cost of natural border growth [in capital] <for [City-States] Civilizations>",
-                "[15]% Food is carried over after population increases [in all cities] <for [City-States] Civilizations>",
+                "[20]% Food is carried over after population increases [in all cities] <for [City-States] Civilizations>",
                 //City-States Military
                 "New [Military] units start with [15] XP [in all cities] <in cities with a [Palace]> <for [City-States] Civilizations>",
                 "New [Military] units start with [15] XP [in all cities] <in cities with a [Barracks]> <for [City-States] Civilizations>",
