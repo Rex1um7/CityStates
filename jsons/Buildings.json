@@ -54,6 +54,18 @@
             "Cannot be purchased",
          ]
     },
+    {
+        "name":"Population Migration Policy",
+        "uniques":[
+            "[1] free [Worker] units appear",
+            "[1] free [Warrior] units appear",
+            "Gain a free [Monument] [in this city] <starting from the [Medieval era]>",
+            "Gain a free [Granary] [in this city] <starting from the [Medieval era]>",
+            "Gain a free [Walls] [in this city] <starting from the [Medieval era]>",
+            "Unbuildable",
+            "Cannot be purchased",
+         ]
+    },
 
     // Civ common buildings
     {
