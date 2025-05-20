@@ -36,7 +36,7 @@
 	{
 		"name":"Visa",
 		"uniques":[
-            		"May enter foreign tiles without open borders <upon entering a [City-States] tile>",
+            		"May enter foreign tiles without open borders <in tiles adjacent to [{Friendly Land} {City-States}] tiles>",
         	]
 	},
 		
