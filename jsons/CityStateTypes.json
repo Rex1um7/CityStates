@@ -1,0 +1,184 @@
+[
+    {
+        "name": "Cultured",
+        "friendBonusUniques": [
+                        "[+3 Culture] <before the [Medieval era]>",
+                        "[+6 Culture] <starting from the [Medieval era]> <before the [Industrial era]>",
+                        "[+13 Culture] <starting from the [Industrial era]>",
+                        "[+19 Culture] <starting from the [Modern era]>",
+                        "[+30 Culture] <starting from the [Atomic era]>",
+                        "[+3]% [Culture] [in all cities]",
+        ],
+        "allyBonusUniques": [
+                        "[+6 Culture] <before the [Medieval era]>",
+                        "[+12 Culture] <starting from the [Medieval era]> <before the [Industrial era]>",
+                        "[+26 Culture] <starting from the [Industrial era]>",
+                        "[+38 Culture] <starting from the [Modern era]>",
+                        "[+60 Culture] <starting from the [Atomic era]>",
+                        "[+3]% [Culture] [in all cities]",
+                        "[-2]% Culture cost of adopting new Policies"
+        ],
+        "color": [139, 96, 255]
+    },
+    {
+        "name": "Maritime",
+        "friendBonusUniques": [
+                        "[+4 Food] [in capital]",
+                        "[+2 Food] [in all cities]",
+        ],
+        "allyBonusUniques": [
+                        "[+6 Food] [in capital]", 
+                        "[+3 Food] [in all cities]",
+                        "[3]% Food is carried over after population increases [in all cities]"
+        ],
+        "color": [56, 255, 112]
+    },
+    {
+        "name": "Mercantile",
+        "friendBonusUniques": [
+                        "[+5 Gold] [in capital]", 
+                        "[+2 Gold] [in all cities]",
+                        "[+5]% [Gold] [in all cities]",
+        ],
+        "allyBonusUniques": [
+                        "[+10 Gold] [in capital]", 
+                        "[+4 Gold] [in all cities]",
+                        "[+5]% [Gold] [in all cities]",
+                        "Provides a unique luxury",
+                        "[1] Happiness from each type of luxury resource",
+                        "[Gold] cost of purchasing items in cities [-5]%",
+        ],
+        "color": [255, 216, 0]
+    },
+    {
+        "name": "Militaristic",
+        "friendBonusUniques": [
+                        "[+3 Production] [in all cities]",
+                        "[+5]% [Production] [in all cities]",
+                        "Provides military units every ≈[12] turns"
+        ],
+        "allyBonusUniques": [
+                        "[+5 Production] [in all cities]",
+                        "[+5]% [Production] [in all cities]",
+                        "[+1 Production] from [Strategic resource] tiles [in all cities]",
+                        "Provides military units every ≈[9] turns",
+        ],
+        "color": [255, 0, 0]
+    },
+    {
+        "name": "Religious",
+        "friendBonusUniques": [
+                        "[+8 Faith] <before the [Medieval era]>",
+                        "[+14 Faith] <starting from the [Medieval era]> <before the [Industrial era]>",
+                        "[+26 Faith] <starting from the [Industrial era]>",
+                        "[+40 Faith] <starting from the [Modern era]>",
+                        "[+10]% [Faith] [in all cities]"
+        ],
+        "allyBonusUniques":  [
+                        "[+12 Faith] <before the [Medieval era]>",
+                        "[+26 Faith] <starting from the [Medieval era]> <before the [Industrial era]>",
+                        "[+45 Faith] <starting from the [Industrial era]>",
+                        "[+60 Faith] <starting from the [Modern era]>",
+                        "[+10]% [Faith] [in all cities]",
+                        "[Faith] cost of purchasing items in cities [-10]%",
+                        "[+15]% Natural religion spread [in all cities]"
+        ],
+        "color": [255, 255, 255]
+    },
+    {
+        "name": "Scientific",
+        "friendBonusUniques": [
+            "[+3 Science] [in capital]",
+            "[+4 Science] from [Academy] tiles [in all cities]",
+            "[+1 Science] from every [Library]",
+            "[+2 Science] from every [University]",
+        ],
+        "allyBonusUniques":  [
+            "[+6 Science] from [Academy] tiles [in all cities]",
+            "[+6 Science] [in capital]",
+            "[+2 Science] from every [Library]",
+            "[+3 Science] from every [University]",
+            "[+1 Science] from every [Public School]",
+            "[+2 Science] [in all cities]",
+        ],
+        "color": [104, 120, 255]
+        
+    },
+    
+    //Religious 
+    {
+        "name": "Bratislava",
+        "friendBonusUniques": [
+                        "[+8 Faith] <before the [Medieval era]>",
+                        "[+14 Faith] <starting from the [Medieval era]> <before the [Industrial era]>",
+                        "[+26 Faith] <starting from the [Industrial era]>",
+                        "[+40 Faith] <starting from the [Modern era]>",
+                        "[+10]% [Faith] [in all cities]",
+        ],
+        "allyBonusUniques":  [
+                        "[+12 Faith] <before the [Medieval era]>",
+                        "[+26 Faith] <starting from the [Medieval era]> <before the [Industrial era]>",
+                        "[+45 Faith] <starting from the [Industrial era]>",
+                        "[+60 Faith] <starting from the [Modern era]>",
+                        "[+5]% [Faith] from every [Faith]",
+                        "Religion naturally spreads to cities [1] tiles away",
+        ],
+        "color": [255, 255, 255]
+    },
+    {
+        "name": "Cahokia",
+        "friendBonusUniques": [
+                        "[+8 Faith] <before the [Medieval era]>",
+                        "[+14 Faith] <starting from the [Medieval era]> <before the [Industrial era]>",
+                        "[+26 Faith] <starting from the [Industrial era]>",
+                        "[+40 Faith] <starting from the [Modern era]>",
+                        "[+1 Happiness, +1 Culture, +1 Faith] from every [Shrine] <in [in all cities] cities>",
+        ],
+        "allyBonusUniques":  [
+                        "[+12 Faith] <before the [Medieval era]>",
+                        "[+26 Faith] <starting from the [Medieval era]> <before the [Industrial era]>",
+                        "[+45 Faith] <starting from the [Industrial era]>",
+                        "[+60 Faith] <starting from the [Modern era]>",
+                        "Comment [Enable the construction of [Cahokia Mounds]]",
+                        "Provides [1] [Construction of Cahokia Mounds] <hidden from users>",
+        ],
+        "color": [255, 255, 255]
+    },
+    {
+        "name": "Jerusalem",
+        "friendBonusUniques": [
+                        "[+8 Faith] <before the [Medieval era]>",
+                        "[+14 Faith] <starting from the [Medieval era]> <before the [Industrial era]>",
+                        "[+26 Faith] <starting from the [Industrial era]>",
+                        "[+40 Faith] <starting from the [Modern era]>",
+                        "[+5]% [Faith] [in all cities]",
+        ],
+        "allyBonusUniques":  [
+                        "[+12 Faith] <before the [Medieval era]>",
+                        "[+26 Faith] <starting from the [Medieval era]> <before the [Industrial era]>",
+                        "[+45 Faith] <starting from the [Industrial era]>",
+                        "[+60 Faith] <starting from the [Modern era]>",
+                        "[+20]% Natural religion spread [in this city] <with [0] to [5] neighboring [Holy site] tiles>",
+        ],
+        "color": [255, 255, 255]
+    },
+    {
+        "name": "Winds of Destruction",
+        "friendBonusUniques": [
+                        "Provides military units every ≈[10] turns",
+                        "[1] XP gained from combat",
+                        "[+3 Production] [in all cities]",
+        ],
+        "allyBonusUniques":  [
+                        "Provides military units every ≈[5] turns",
+                        "[+5 Production] [in all cities]",
+                        "[+20]% Production when constructing [Military] units [in all cities]",
+                        "[1] XP gained from combat",
+                        "[+20]% XP gained from combat",
+                        "[+25]% City-State Influence degradation",
+                        "Provides [12] [Iron]",
+                        "Provides [12] [Oil]",
+        ],
+        "color": [255, 0, 0]
+    },
+]

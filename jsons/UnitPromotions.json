@@ -1,0 +1,43 @@
+[
+    {
+        "name": "UcantSeeUs",
+        "uniques": [
+            	"Invisible to non-adjacent units <for [non-[Wounded]] units>", 
+		"[-33]% Strength <when defending>",
+            	"[+75]% Strength <when attacking> <if it hasn't used other actions yet>"
+        ]
+    },
+    {
+        "name": "CS ability",
+        "uniques":[
+            	"May enter foreign tiles without open borders",
+		"Free [Settler] appears <upon conquering a city>",
+		"[+1] Movement <for [All] units>",
+		"[+2] Movement <for [Settler] units> <for [City-States] Civilizations> <hidden from users>",
+		"Ignores terrain cost <for [Civilian] units>",
+		"[-25]% construction time for [All] improvements <for [City-States] Civilizations> <hidden from users>",
+		"[+5] HP when healing <for [City-States] Civilizations> <hidden from users>",
+		"[-20]% Strength <when fighting in [Enemy] tiles> <for [City-States] Civilizations> <hidden from users>",
+		"[-10]% Strength <when fighting in [Enemy] tiles> <for [City-States] Civilizations> <in tiles adjacent to [City center] tiles> <hidden from users>",
+		"Unable to pillage tiles <when above [50] HP> <for [City-States] Civilizations> <hidden from users>",
+               "[+10]% Strength <when fighting in [Friendly] tiles> ",
+               "[+50]% to Flank Attack bonuses",
+        ]
+    },
+	{
+		"name":"CS ability (Defend)",
+		"uniques":[
+            		"Free [Warrior] appears <during the [Medieval era]> <for [City-States] Civilizations> <hidden from users>",
+			"Free [Swordsman] appears <during the [Renaissance era]> <for [City-States] Civilizations> <hidden from users>",
+			"Free [Pikeman] appears <starting from the [Industrial era]> <for [City-States] Civilizations> <hidden from users>",
+			"[+10]% Strength <when defending> <when fighting in [Friendly] tiles>",
+        	]
+	},
+	{
+		"name":"Visa",
+		"uniques":[
+            		"May enter foreign tiles without open borders <upon entering a [City-States] tile>",
+        	]
+	},
+		
+]

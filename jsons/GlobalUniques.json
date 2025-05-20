@@ -1,0 +1,47 @@
+{
+     "uniques":[
+                //City-States Development
+                "[+1 Gold, +1 Science] from [All] tiles [in all cities] <for [City-States] Civilizations>",
+                "[+50]% Production when constructing [Military] units [in all cities] <for [City-States] Civilizations>",
+                "[+50]% Production when constructing [All] buildings [in all cities] <for [City-States] Civilizations>",
+                "[+50]% [Production] [in all cities] <when at war> <for [City-States] Civilizations>",
+                "[+4 Production] [in all cities] <upon declaring war with a major Civilization> <for [City-States] Civilizations>",
+                "[+50]% [Gold] [in all cities] <for [City-States] Civilizations>",
+                "[+20]% [Food] [in all cities] <for [City-States] Civilizations>",
+                "[+3 Culture] [in all cities] <for [City-States] Civilizations>",
+                "[-33]% Culture cost of natural border growth [in capital] <for [City-States] Civilizations>",
+                "[15]% Food is carried over after population increases [in all cities] <for [City-States] Civilizations>",
+                //City-States Military
+                "New [Military] units start with [15] XP [in all cities] <in cities with a [Palace]> <for [City-States] Civilizations>",
+                "New [Military] units start with [15] XP [in all cities] <in cities with a [Barracks]> <for [City-States] Civilizations>",
+               "New [Military] units start with [10] XP [in all cities] <in cities with a [Armory]> <for [City-States] Civilizations>",
+                "[All] units gain the [CS ability] promotion <for [City-States] Civilizations>",
+                "Gain a free [Emergency Mobilization Protocol] [in all cities] <for [City-States] Civilizations> <after discovering [Chivalry]>",
+               "Gain a free [Manhattan Project] [in capital] <for [City-States] Civilizations> <after discovering [Nuclear Fission]>",
+                "[1] free [Worker] units appear <for [City-States] Civilizations>",
+                //City-States Politics
+                "City-State territory always counts as friendly territory <for [City-States] Civilizations>",
+                //City-States Resources
+                "Provides [20] [Iron] <after discovering [Iron Working]> <for [City-States] Civilizations>",
+                "Provides [20] [Horses] <after discovering [Animal Husbandry]> <for [City-States] Civilizations>",
+                "Provides [10] [Coal] <after discovering [Industrialization]> <for [City-States] Civilizations>",
+                "Provides [10] [Oil] <after discovering [Biology]> <for [City-States] Civilizations>",
+                "Provides [10] [Aluminum] <after discovering [Electricity]> <for [City-States] Civilizations>",
+                "Provides [6] [Uranium] <after discovering [Atomic Theory]> <for [City-States] Civilizations>",
+                //City-States Ability
+               "Cities are razed [3] times as fast <for [City-States] Civilizations> ",
+               "[-50]% Gold cost of upgrading <for [Military] units> <for [City-States] Civilizations>",
+               "[Gold] cost of purchasing items in cities [-50]% <for [City-States] Civilizations>",
+                "May buy items in puppet cities <for [City-States] Civilizations>",
+                "Population loss from nuclear attacks [-50]% [in all cities] <for [City-States] Civilizations>",
+                "Military Units gifted from City-States start with [15] XP",
+                 "[+100]% spy effectiveness [in all cities] <for [City-States] Civilizations>",
+                 "New spies start with [5] level(s) <for [City-States] Civilizations>",
+               "Reveal up to [All] [City center] within a [8] tile radius <within [1] tiles of a [Friendly Land]> <for [City-States] Civilizations>"
+               // Global
+               "Enables Research agreements <upon discovering [Education] technology>",
+               "[All] units gain the [Visa] promotion <for [Major] Civilizations>",
+     ]
+}
+
+  

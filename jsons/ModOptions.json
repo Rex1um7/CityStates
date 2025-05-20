@@ -1,0 +1,19 @@
+{
+    "uniques": [
+        "Allow City States to spawn with additional units",
+  ],
+    "constants":
+  {
+      "unitSupplyPerPopulation": 3,
+      "baseTurnsUntilRevolt": 3,
+    "maxSpyRank": 5,
+      "cityStateElectionTurns": 10,
+      "cityExpandRange": 4,
+    "cityStrengthPerPop": 0.45,
+      "cityStrengthFromTechsExponent": 3.3,
+      "cityStrengthFromGarrison": 0.25,
+      "cityStrengthFromTechsMultiplier": 5.2
+      "cityStrengthFromTechsFullMultiplier": 1.2,
+      "maxXPfromBarbarians": 9999
+  },
+}

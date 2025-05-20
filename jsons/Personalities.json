@@ -1,0 +1,31 @@
+[
+  {
+    "name": "Sundowner",
+    "production": 7,
+    "food": 5,
+    "gold": 6,
+    "science": 7,
+    "culture": 5,
+    "happiness": 7,
+    "faith": 0,
+    "military": 8,
+    "aggressive": 8,
+    "declareWar": 9,
+    "commerce": 6,
+    "diplomacy": 4,
+    "loyal": 3,
+    "expansion": 8,
+    "priorities": {
+      "Tradition": 6,
+      "Liberty": 8,
+      "Honor": 10,
+      "Commerce": 5,
+      "Patronage": 4,
+      "Piety": 8,
+      "Rationalism": 5,
+      "Freedom": 6,
+      "Autocracy": 9,
+      "Order": 3
+    }
+  },
+]

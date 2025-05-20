@@ -1,0 +1,83 @@
+[
+    // Ally buildings
+    {
+        "name":"Cahokia Mounds",
+        "cost": 200,
+        "hurryCostModifier": 25,
+        "Faith": 3
+        "Culture": 2
+        "Happiness": 2
+        "maintenance": 4,
+         "uniques":[
+             "Only available <with [Construction of Cahokia Mounds]>",
+             "[-10]% Unhappiness from [Population] [in this city]",
+             "[+1 Happiness, +1 Culture, +1 Faith] from every [Shrine] <in this city>",
+            "[+1 Happiness, +1 Culture, +2 Faith] from every [Temple] <in this city>",
+            "[+4 Happiness, +4 Culture, +8 Faith] from every [Grand Temple] <in this city>",
+         ],
+        "civilopediaText": [
+            {
+                "text":"Archaeological evidence from the site suggests the mounds were a key part of the religious practices of the culture...",
+                "link":"Nations/Cahokia",
+                "color": "white",
+            },
+        ]
+    },
+    
+    // City-States building
+    // Unique
+    {
+        "name":"Stone City",
+        "cost":150,
+        "hurryCostModifier": 0,
+        "maintenance": 1,
+        "requiredTech":"Currency",
+        "specialistSlots": {"Artist": 2},
+        "requiredNearbyImprovedResources": ["Stone"],
+        "happiness": 3,
+        "culture": 3,
+        "percentStatBonus": {"gold": 30},
+        "uniqueTo":"Zanzibar",
+         "uniques":[
+            "[+1 Production] from [Stone] tiles [in this city]",
+             "[+1 Production, +1 Gold] from [Spices] tiles [in this city]"
+         ]
+    },
+    // CS common buildings
+    {
+        "name":"Emergency Mobilization Protocol",
+        "greatPersonPoints": {"Great General": 4},
+        "uniques":[
+            "All newly-trained [All] units [in this city] receive the [CS ability (Defend)] promotion <when at war>",
+            "Enables nuclear weapon <after discovering [Nuclear Fission]>",
+            "Unbuildable",
+            "Cannot be purchased",
+         ]
+    },
+
+    // Civ common buildings
+    {
+        "name":"Urban Upgrading Program",
+        "cost": 300,
+        "cityStrength": 20,
+        "maintenance": 8,        
+        "civilopediaText":[
+            {
+                "text": "Accelerate the development of this city, doubled the development while entering Industrial era"
+            }
+        ],
+        "uniques":[
+            "[+15]% Production when constructing [All] buildings [in this city]",
+            "[+25]% Production when constructing [Civilian] units [in this city]",
+            "[+10]% growth [in this city]",
+            "[+1 Production, +1 Food, +1 Science, +1 Culture, +2 Gold] from each Trade Route",
+            "[+1 Production, +1 Food, +1 Science, +1 Culture, +2 Gold] from each Trade Route <upon entering the [Industrial era]> <hidden from users>",
+            "Requires at least [10] population",
+            "Limited to [10] per Civilization",
+            "Only available <in cities without a [Palace]>",
+            "Gain [-700] [Gold] <(modified by game speed)>",
+            "Cannot be purchased",
+            "Destroyed when the city is captured",
+         ]
+    }
+]
