@@ -1,8 +1,5 @@
 {
      "uniques":[
-          // new
-          "Gain a free [Manhattan Project] [in capital] <for [City-States] Civilizations> <after discovering [Nuclear Fission]>",
-          "Gain a free [Population Migration Policy] [in this city] <upon founding a city> <for [City-States] Civilizations>",
           // City-States Tile
                 "[+20]% Yield from every [Land] <for [City-States] Civilizations>",
                "[+2 Production] from [Strategic resource] tiles [in all cities] <for [City-States] Civilizations>",
@@ -25,7 +22,7 @@
                "New [Military] units start with [10] XP [in all cities] <in cities with a [Armory]> <for [City-States] Civilizations>",
                 "[All] units gain the [CS ability] promotion <for [City-States] Civilizations>",
                 "Gain a free [Emergency Mobilization Protocol] [in all cities] <for [City-States] Civilizations> <after discovering [Chivalry]>",
-                "[1] free [Worker] units appear <for [City-States] Civilizations>",
+               "Gain a free [Manhattan Project] [in capital] <for [City-States] Civilizations> <after discovering [Nuclear Fission]>",
                 //City-States Politics
                 "City-State territory always counts as friendly territory <for [City-States] Civilizations>",
                 //City-States Resources
@@ -44,7 +41,8 @@
                 "Military Units gifted from City-States start with [15] XP",
                  "[+100]% spy effectiveness [in all cities] <for [City-States] Civilizations>",
                  "New spies start with [5] level(s) <for [City-States] Civilizations>",
-               "Reveal up to [All] [City center] within a [8] tile radius <within [1] tiles of a [Friendly Land]> <for [City-States] Civilizations>"
+               "Reveal up to [All] [City center] within a [8] tile radius <within [1] tiles of a [Friendly Land]> <for [City-States] Civilizations>",
+               "Gain a free [Population Migration Policy] [in this city] <upon founding a city> <for [City-States] Civilizations>",
                // Global
                "Enables Research agreements <upon discovering [Education] technology>",
                "[All] units gain the [Visa] promotion <for [Major] Civilizations>",
