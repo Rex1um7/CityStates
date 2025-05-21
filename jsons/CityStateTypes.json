@@ -120,7 +120,7 @@
                         "[+26 Faith] <starting from the [Medieval era]> <before the [Industrial era]>",
                         "[+45 Faith] <starting from the [Industrial era]>",
                         "[+60 Faith] <starting from the [Modern era]>",
-                        "[+5]% [Faith] from every [Faith]",
+                        "[+5]% [Faith] from every [{Faith} {Buildings}]",
                         "Religion naturally spreads to cities [1] tiles away",
         ],
         "color": [255, 255, 255]
